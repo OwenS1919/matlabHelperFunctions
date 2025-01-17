@@ -1,0 +1,33 @@
+# myScheme2Dark - MATLAB color scheme
+# Generated with schemer_export v1.4.0, on MATLAB 9.14.0.2206163 (R2023a)
+# Sat Apr 01 22:30:38 AEST 2023
+# To enable this color scheme in MATLAB use schemer_import, available at:
+#     https://github.com/scottclowe/matlab-schemer
+#     https://www.mathworks.com/matlabcentral/fileexchange/53862-matlab-schemer
+ColorsUseSystem=Btrue
+ColorsUseMLintAutoFixBackground=Btrue
+Editor.VariableHighlighting.Automatic=Btrue
+Editor.NonlocalVariableHighlighting=Btrue
+EditorCodepadHighVisible=Bfalse
+EditorCodeBlockDividers=Bfalse
+Editorhighlight-caret-row-boolean=Btrue
+EditorRightTextLineVisible=Btrue
+EditorRightTextLimitLineWidth=I1
+ColorsText=C-1
+ColorsBackground=C-16777216
+Colors_M_Keywords=C-6365705
+Colors_M_Comments=C-4130154
+Colors_M_Strings=C-15617
+Colors_M_UnterminatedStrings=C-28785
+Colors_M_SystemCommands=C-5075968
+Colors_M_Errors=C-3407821
+Colors_HTML_HTMLLinks=C-41378
+Colors_M_Warnings=C-27648
+ColorsMLintAutoFixBackground=C-2628
+Editor.VariableHighlighting.Color=C-3479320
+Editor.NonlocalVariableHighlighting.TextColor=C-16615296
+Editorhighlight-lines=C-16777216
+Editorhighlight-caret-row-boolean-color=C-14067450
+EditorRightTextLimitLineColor=C-4210753
+Color_CmdWinWarnings=C-1194650
+Color_CmdWinErrors=C-688257

@@ -1,0 +1,1726 @@
+
+started job: cCM_GBR1_0p5km_2018-19
+
+
+                            < M A T L A B (R) >
+                  Copyright 1984-2018 The MathWorks, Inc.
+                   R2018a (9.4.0.813654) 64-bit (glnxa64)
+                             February 23, 2018
+
+ 
+For online documentation, see http://www.mathworks.com/support
+For product information, visit www.mathworks.com.
+ 
+conMat_GBR1_0p5km_compSurvAll_20181201.mat completed in: 13945.7466 seconds
+conMat_GBR1_0p5km_compSurvAll_20181215.mat completed in: 15714.8358 seconds
+conMat_GBR1_0p5km_compSurvAll_20190101.mat completed in: 16345.1573 seconds
+conMat_GBR1_0p5km_compSurvAll_20190115.mat completed in: 16682.486 seconds
+conMat_GBR1_0p5km_compSurvTop50P_20181201.mat completed in: 23606.4001 seconds
+conMat_GBR1_0p5km_compSurvTop50P_20181215.mat completed in: 26046.1662 seconds
+conMat_GBR1_0p5km_compSurvTop50P_20190101.mat completed in: 21099.363 seconds
+conMat_GBR1_0p5km_compSurvTop50P_20190115.mat completed in: 21412.0708 seconds
+conMat_GBR1_0p5km_compSurvBottom50P_20181201.mat completed in: 13102.6217 seconds
+conMat_GBR1_0p5km_compSurvBottom50P_20181215.mat completed in: 14366.562 seconds
+conMat_GBR1_0p5km_compSurvBottom50P_20190101.mat completed in: 13631.1615 seconds
+conMat_GBR1_0p5km_compSurvBottom50P_20190115.mat completed in: 12530.7656 seconds
+matlab execution successful for: cCM_GBR1_0p5km_2018-19
+
+finished job: cCM_GBR1_0p5km_2018-19
+
+
+started job: cCM_GBR1_0p5km_2019-20
+
+
+                            < M A T L A B (R) >
+                  Copyright 1984-2018 The MathWorks, Inc.
+                   R2018a (9.4.0.813654) 64-bit (glnxa64)
+                             February 23, 2018
+
+ 
+For online documentation, see http://www.mathworks.com/support
+For product information, visit www.mathworks.com.
+ 
+conMat_GBR1_0p5km_compSurvAll_20191201.mat completed in: 0.17732 seconds
+conMat_GBR1_0p5km_compSurvAll_20191215.mat completed in: 30676.4966 seconds
+conMat_GBR1_0p5km_compSurvAll_20200101.mat completed in: 30999.6416 seconds
+conMat_GBR1_0p5km_compSurvAll_20200115.mat completed in: 20988.0914 seconds
+conMat_GBR1_0p5km_compSurvTop50P_20191201.mat completed in: 0.05747 seconds
+conMat_GBR1_0p5km_compSurvTop50P_20191215.mat completed in: 32011.5612 seconds
+conMat_GBR1_0p5km_compSurvTop50P_20200101.mat completed in: 33800.141 seconds
+conMat_GBR1_0p5km_compSurvTop50P_20200115.mat completed in: 30169.3233 seconds
+conMat_GBR1_0p5km_compSurvBottom50P_20191201.mat completed in: 0.046036 seconds
+conMat_GBR1_0p5km_compSurvBottom50P_20191215.mat completed in: 16186.2252 seconds
+conMat_GBR1_0p5km_compSurvBottom50P_20200101.mat completed in: 16299.3572 seconds
+conMat_GBR1_0p5km_compSurvBottom50P_20200115.mat completed in: 29121.3636 seconds
+matlab execution successful for: cCM_GBR1_0p5km_2019-20
+
+finished job: cCM_GBR1_0p5km_2019-20
+
+
+started job: cCM_GBR1_0p5km_2020-21
+
+
+                            < M A T L A B (R) >
+                  Copyright 1984-2018 The MathWorks, Inc.
+                   R2018a (9.4.0.813654) 64-bit (glnxa64)
+                             February 23, 2018
+
+ 
+For online documentation, see http://www.mathworks.com/support
+For product information, visit www.mathworks.com.
+ 
+conMat_GBR1_0p5km_compSurvAll_20201201.mat completed in: 28749.2985 seconds
+conMat_GBR1_0p5km_compSurvAll_20201215.mat completed in: 35361.7371 seconds
+conMat_GBR1_0p5km_compSurvAll_20210101.mat completed in: 21241.384 seconds
+conMat_GBR1_0p5km_compSurvAll_20210115.mat completed in: 20359.2309 seconds
+conMat_GBR1_0p5km_compSurvTop50P_20201201.mat completed in: 36318.2717 seconds
+conMat_GBR1_0p5km_compSurvTop50P_20201215.mat completed in: 32437.6337 seconds
+conMat_GBR1_0p5km_compSurvTop50P_20210101.mat completed in: 21559.4727 seconds
+conMat_GBR1_0p5km_compSurvTop50P_20210115.mat completed in: 39149.4781 seconds
+conMat_GBR1_0p5km_compSurvBottom50P_20201201.mat completed in: 20042.1577 seconds
+conMat_GBR1_0p5km_compSurvBottom50P_20201215.mat completed in: 15014.2783 seconds
+conMat_GBR1_0p5km_compSurvBottom50P_20210101.mat completed in: 24763.8127 seconds
+conMat_GBR1_0p5km_compSurvBottom50P_20210115.mat completed in: 28949.9612 seconds
+matlab execution successful for: cCM_GBR1_0p5km_2020-21
+
+finished job: cCM_GBR1_0p5km_2020-21
+
+
+started job: cCM_GBR1_0p5km_2021-22
+
+
+                            < M A T L A B (R) >
+                  Copyright 1984-2018 The MathWorks, Inc.
+                   R2018a (9.4.0.813654) 64-bit (glnxa64)
+                             February 23, 2018
+
+ 
+For online documentation, see http://www.mathworks.com/support
+For product information, visit www.mathworks.com.
+ 
+conMat_GBR1_0p5km_compSurvAll_20211201.mat completed in: 28200.9344 seconds
+conMat_GBR1_0p5km_compSurvAll_20211215.mat completed in: 33397.0503 seconds
+conMat_GBR1_0p5km_compSurvAll_20220101.mat completed in: 13556.6074 seconds
+conMat_GBR1_0p5km_compSurvAll_20220115.mat completed in: 15754.3881 seconds
+conMat_GBR1_0p5km_compSurvTop50P_20211201.mat completed in: 21156.0405 seconds
+conMat_GBR1_0p5km_compSurvTop50P_20211215.mat completed in: 35665.1693 seconds
+conMat_GBR1_0p5km_compSurvTop50P_20220101.mat completed in: 32705.1796 seconds
+conMat_GBR1_0p5km_compSurvTop50P_20220115.mat completed in: 35549.7741 seconds
+conMat_GBR1_0p5km_compSurvBottom50P_20211201.mat completed in: 21285.6498 seconds
+conMat_GBR1_0p5km_compSurvBottom50P_20211215.mat completed in: 20496.1872 seconds
+conMat_GBR1_0p5km_compSurvBottom50P_20220101.mat completed in: 18128.9251 seconds
+conMat_GBR1_0p5km_compSurvBottom50P_20220115.mat completed in: 23422.8765 seconds
+matlab execution successful for: cCM_GBR1_0p5km_2021-22
+
+finished job: cCM_GBR1_0p5km_2021-22
+
+
+started job: cCM_GBR1_1km_2018-19
+
+
+                            < M A T L A B (R) >
+                  Copyright 1984-2018 The MathWorks, Inc.
+                   R2018a (9.4.0.813654) 64-bit (glnxa64)
+                             February 23, 2018
+
+ 
+For online documentation, see http://www.mathworks.com/support
+For product information, visit www.mathworks.com.
+ 
+conMat_GBR1_1km_compSurvAll_20181201.mat completed in: 18314.7855 seconds
+conMat_GBR1_1km_compSurvAll_20181215.mat completed in: 19203.1759 seconds
+conMat_GBR1_1km_compSurvAll_20190101.mat completed in: 18259.857 seconds
+conMat_GBR1_1km_compSurvAll_20190115.mat completed in: 16360.697 seconds
+conMat_GBR1_1km_compSurvTop50P_20181201.mat completed in: 24643.0916 seconds
+conMat_GBR1_1km_compSurvTop50P_20181215.mat completed in: 28171.1579 seconds
+conMat_GBR1_1km_compSurvTop50P_20190101.mat completed in: 26514.0181 seconds
+conMat_GBR1_1km_compSurvTop50P_20190115.mat completed in: 23012.7773 seconds
+conMat_GBR1_1km_compSurvBottom50P_20181201.mat completed in: 14891.167 seconds
+conMat_GBR1_1km_compSurvBottom50P_20181215.mat completed in: 17905.0844 seconds
+conMat_GBR1_1km_compSurvBottom50P_20190101.mat completed in: 17560.11 seconds
+conMat_GBR1_1km_compSurvBottom50P_20190115.mat completed in: 15014.445 seconds
+matlab execution successful for: cCM_GBR1_1km_2018-19
+
+finished job: cCM_GBR1_1km_2018-19
+
+
+started job: cCM_GBR1_1km_2019-20
+
+
+                            < M A T L A B (R) >
+                  Copyright 1984-2018 The MathWorks, Inc.
+                   R2018a (9.4.0.813654) 64-bit (glnxa64)
+                             February 23, 2018
+
+ 
+For online documentation, see http://www.mathworks.com/support
+For product information, visit www.mathworks.com.
+ 
+conMat_GBR1_1km_compSurvAll_20191201.mat completed in: 0.21565 seconds
+conMat_GBR1_1km_compSurvAll_20191215.mat completed in: 26771.2933 seconds
+conMat_GBR1_1km_compSurvAll_20200101.mat completed in: 23827.9105 seconds
+conMat_GBR1_1km_compSurvAll_20200115.mat completed in: 19874.2502 seconds
+conMat_GBR1_1km_compSurvTop50P_20191201.mat completed in: 0.049693 seconds
+conMat_GBR1_1km_compSurvTop50P_20191215.mat completed in: 52904.549 seconds
+conMat_GBR1_1km_compSurvTop50P_20200101.mat completed in: 23566.9116 seconds
+conMat_GBR1_1km_compSurvTop50P_20200115.mat completed in: 56771.1633 seconds
+conMat_GBR1_1km_compSurvBottom50P_20191201.mat completed in: 0.060262 seconds
+conMat_GBR1_1km_compSurvBottom50P_20191215.mat completed in: 28435.1223 seconds
+conMat_GBR1_1km_compSurvBottom50P_20200101.mat completed in: 29773.7621 seconds
+conMat_GBR1_1km_compSurvBottom50P_20200115.mat completed in: 29617.6692 seconds
+matlab execution successful for: cCM_GBR1_1km_2019-20
+
+finished job: cCM_GBR1_1km_2019-20
+
+
+started job: cCM_GBR1_1km_2020-21
+
+
+                            < M A T L A B (R) >
+                  Copyright 1984-2018 The MathWorks, Inc.
+                   R2018a (9.4.0.813654) 64-bit (glnxa64)
+                             February 23, 2018
+
+ 
+For online documentation, see http://www.mathworks.com/support
+For product information, visit www.mathworks.com.
+ 
+conMat_GBR1_1km_compSurvAll_20201201.mat completed in: 18693.6684 seconds
+conMat_GBR1_1km_compSurvAll_20201215.mat completed in: 20695.9658 seconds
+conMat_GBR1_1km_compSurvAll_20210101.mat completed in: 18521.6656 seconds
+conMat_GBR1_1km_compSurvAll_20210115.mat completed in: 19518.2787 seconds
+conMat_GBR1_1km_compSurvTop50P_20201201.mat completed in: 26313.8498 seconds
+conMat_GBR1_1km_compSurvTop50P_20201215.mat completed in: 28116.0718 seconds
+conMat_GBR1_1km_compSurvTop50P_20210101.mat completed in: 26170.9824 seconds
+conMat_GBR1_1km_compSurvTop50P_20210115.mat completed in: 26844.072 seconds
+conMat_GBR1_1km_compSurvBottom50P_20201201.mat completed in: 16396.9807 seconds
+conMat_GBR1_1km_compSurvBottom50P_20201215.mat completed in: 18948.1389 seconds
+conMat_GBR1_1km_compSurvBottom50P_20210101.mat completed in: 17754.0835 seconds
+conMat_GBR1_1km_compSurvBottom50P_20210115.mat completed in: 17917.1171 seconds
+matlab execution successful for: cCM_GBR1_1km_2020-21
+
+finished job: cCM_GBR1_1km_2020-21
+
+
+started job: cCM_GBR1_1km_2021-22
+
+
+                            < M A T L A B (R) >
+                  Copyright 1984-2018 The MathWorks, Inc.
+                   R2018a (9.4.0.813654) 64-bit (glnxa64)
+                             February 23, 2018
+
+ 
+For online documentation, see http://www.mathworks.com/support
+For product information, visit www.mathworks.com.
+ 
+conMat_GBR1_1km_compSurvAll_20211201.mat completed in: 19290.7003 seconds
+conMat_GBR1_1km_compSurvAll_20211215.mat completed in: 20370.7608 seconds
+conMat_GBR1_1km_compSurvAll_20220101.mat completed in: 18447.5075 seconds
+conMat_GBR1_1km_compSurvAll_20220115.mat completed in: 19729.9644 seconds
+conMat_GBR1_1km_compSurvTop50P_20211201.mat completed in: 26356.276 seconds
+conMat_GBR1_1km_compSurvTop50P_20211215.mat completed in: 29409.0729 seconds
+conMat_GBR1_1km_compSurvTop50P_20220101.mat completed in: 24946.2034 seconds
+conMat_GBR1_1km_compSurvTop50P_20220115.mat completed in: 27203.3829 seconds
+conMat_GBR1_1km_compSurvBottom50P_20211201.mat completed in: 18584.964 seconds
+conMat_GBR1_1km_compSurvBottom50P_20211215.mat completed in: 18872.2286 seconds
+conMat_GBR1_1km_compSurvBottom50P_20220101.mat completed in: 13771.6111 seconds
+conMat_GBR1_1km_compSurvBottom50P_20220115.mat completed in: 17616.3971 seconds
+matlab execution successful for: cCM_GBR1_1km_2021-22
+
+finished job: cCM_GBR1_1km_2021-22
+
+
+started job: cCM_GBR1_1p5km_2018-19
+
+
+                            < M A T L A B (R) >
+                  Copyright 1984-2018 The MathWorks, Inc.
+                   R2018a (9.4.0.813654) 64-bit (glnxa64)
+                             February 23, 2018
+
+ 
+For online documentation, see http://www.mathworks.com/support
+For product information, visit www.mathworks.com.
+ 
+conMat_GBR1_1p5km_compSurvAll_20181201.mat completed in: 18417.5485 seconds
+conMat_GBR1_1p5km_compSurvAll_20181215.mat completed in: 20693.7341 seconds
+conMat_GBR1_1p5km_compSurvAll_20190101.mat completed in: 19560.0618 seconds
+conMat_GBR1_1p5km_compSurvAll_20190115.mat completed in: 17618.023 seconds
+conMat_GBR1_1p5km_compSurvTop50P_20181201.mat completed in: 25862.6151 seconds
+conMat_GBR1_1p5km_compSurvTop50P_20181215.mat completed in: 30473.4837 seconds
+conMat_GBR1_1p5km_compSurvTop50P_20190101.mat completed in: 27383.8308 seconds
+conMat_GBR1_1p5km_compSurvTop50P_20190115.mat completed in: 25101.9227 seconds
+conMat_GBR1_1p5km_compSurvBottom50P_20181201.mat completed in: 17462.8431 seconds
+conMat_GBR1_1p5km_compSurvBottom50P_20181215.mat completed in: 19310.2309 seconds
+conMat_GBR1_1p5km_compSurvBottom50P_20190101.mat completed in: 17139.4459 seconds
+conMat_GBR1_1p5km_compSurvBottom50P_20190115.mat completed in: 15968.3902 seconds
+matlab execution successful for: cCM_GBR1_1p5km_2018-19
+
+finished job: cCM_GBR1_1p5km_2018-19
+
+
+started job: cCM_GBR1_1p5km_2019-20
+
+
+                            < M A T L A B (R) >
+                  Copyright 1984-2018 The MathWorks, Inc.
+                   R2018a (9.4.0.813654) 64-bit (glnxa64)
+                             February 23, 2018
+
+ 
+For online documentation, see http://www.mathworks.com/support
+For product information, visit www.mathworks.com.
+ 
+conMat_GBR1_1p5km_compSurvAll_20191201.mat completed in: 0.077718 seconds
+conMat_GBR1_1p5km_compSurvAll_20191215.mat completed in: 38954.2559 seconds
+conMat_GBR1_1p5km_compSurvAll_20200101.mat completed in: 33573.8561 seconds
+conMat_GBR1_1p5km_compSurvAll_20200115.mat completed in: 35326.2884 seconds
+conMat_GBR1_1p5km_compSurvTop50P_20191201.mat completed in: 0.056924 seconds
+conMat_GBR1_1p5km_compSurvTop50P_20191215.mat completed in: 53273.9355 seconds
+conMat_GBR1_1p5km_compSurvTop50P_20200101.mat completed in: 45052.0433 seconds
+conMat_GBR1_1p5km_compSurvTop50P_20200115.mat completed in: 34547.8952 seconds
+conMat_GBR1_1p5km_compSurvBottom50P_20191201.mat completed in: 0.045402 seconds
+conMat_GBR1_1p5km_compSurvBottom50P_20191215.mat completed in: 26394.4107 seconds
+conMat_GBR1_1p5km_compSurvBottom50P_20200101.mat completed in: 22761.8277 seconds
+conMat_GBR1_1p5km_compSurvBottom50P_20200115.mat completed in: 26399.2341 seconds
+matlab execution successful for: cCM_GBR1_1p5km_2019-20
+
+finished job: cCM_GBR1_1p5km_2019-20
+
+
+started job: cCM_GBR1_1p5km_2020-21
+
+
+                            < M A T L A B (R) >
+                  Copyright 1984-2018 The MathWorks, Inc.
+                   R2018a (9.4.0.813654) 64-bit (glnxa64)
+                             February 23, 2018
+
+ 
+For online documentation, see http://www.mathworks.com/support
+For product information, visit www.mathworks.com.
+ 
+conMat_GBR1_1p5km_compSurvAll_20201201.mat completed in: 21953.7782 seconds
+conMat_GBR1_1p5km_compSurvAll_20201215.mat completed in: 24702.073 seconds
+conMat_GBR1_1p5km_compSurvAll_20210101.mat completed in: 21407.725 seconds
+conMat_GBR1_1p5km_compSurvAll_20210115.mat completed in: 22009.1372 seconds
+conMat_GBR1_1p5km_compSurvTop50P_20201201.mat completed in: 29841.5266 seconds
+conMat_GBR1_1p5km_compSurvTop50P_20201215.mat completed in: 34114.2433 seconds
+conMat_GBR1_1p5km_compSurvTop50P_20210101.mat completed in: 29040.8083 seconds
+conMat_GBR1_1p5km_compSurvTop50P_20210115.mat completed in: 30710.4349 seconds
+conMat_GBR1_1p5km_compSurvBottom50P_20201201.mat completed in: 19731.8755 seconds
+conMat_GBR1_1p5km_compSurvBottom50P_20201215.mat completed in: 21254.3221 seconds
+conMat_GBR1_1p5km_compSurvBottom50P_20210101.mat completed in: 18491.4741 seconds
+conMat_GBR1_1p5km_compSurvBottom50P_20210115.mat completed in: 19139.1502 seconds
+matlab execution successful for: cCM_GBR1_1p5km_2020-21
+
+finished job: cCM_GBR1_1p5km_2020-21
+
+
+started job: cCM_GBR1_1p5km_2021-22
+
+
+                            < M A T L A B (R) >
+                  Copyright 1984-2018 The MathWorks, Inc.
+                   R2018a (9.4.0.813654) 64-bit (glnxa64)
+                             February 23, 2018
+
+ 
+For online documentation, see http://www.mathworks.com/support
+For product information, visit www.mathworks.com.
+ 
+conMat_GBR1_1p5km_compSurvAll_20211201.mat completed in: 21450.514 seconds
+conMat_GBR1_1p5km_compSurvAll_20211215.mat completed in: 22478.3944 seconds
+conMat_GBR1_1p5km_compSurvAll_20220101.mat completed in: 20287.7532 seconds
+conMat_GBR1_1p5km_compSurvAll_20220115.mat completed in: 23590.0384 seconds
+conMat_GBR1_1p5km_compSurvTop50P_20211201.mat completed in: 31017.1926 seconds
+conMat_GBR1_1p5km_compSurvTop50P_20211215.mat completed in: 32025.0639 seconds
+conMat_GBR1_1p5km_compSurvTop50P_20220101.mat completed in: 27683.707 seconds
+conMat_GBR1_1p5km_compSurvTop50P_20220115.mat completed in: 31076.7356 seconds
+conMat_GBR1_1p5km_compSurvBottom50P_20211201.mat completed in: 19968.3339 seconds
+conMat_GBR1_1p5km_compSurvBottom50P_20211215.mat completed in: 20371.4815 seconds
+conMat_GBR1_1p5km_compSurvBottom50P_20220101.mat completed in: 18133.7298 seconds
+conMat_GBR1_1p5km_compSurvBottom50P_20220115.mat completed in: 19052.1895 seconds
+matlab execution successful for: cCM_GBR1_1p5km_2021-22
+
+finished job: cCM_GBR1_1p5km_2021-22
+
+
+started job: cCM_GBRLDp_0p5km_2018-19
+
+
+                            < M A T L A B (R) >
+                  Copyright 1984-2018 The MathWorks, Inc.
+                   R2018a (9.4.0.813654) 64-bit (glnxa64)
+                             February 23, 2018
+
+ 
+For online documentation, see http://www.mathworks.com/support
+For product information, visit www.mathworks.com.
+ 
+conMat_GBRLDp_0p5km_compSurvAll_20181201.mat completed in: 0.1692 seconds
+conMat_GBRLDp_0p5km_compSurvAll_20181207.mat completed in: 0.042916 seconds
+conMat_GBRLDp_0p5km_compSurvAll_20181214.mat completed in: 0.040887 seconds
+conMat_GBRLDp_0p5km_compSurvAll_20181221.mat completed in: 0.040346 seconds
+conMat_GBRLDp_0p5km_compSurvAll_20181228.mat completed in: 0.043717 seconds
+conMat_GBRLDp_0p5km_compSurvAll_20190101.mat completed in: 0.040377 seconds
+conMat_GBRLDp_0p5km_compSurvAll_20190107.mat completed in: 0.040015 seconds
+conMat_GBRLDp_0p5km_compSurvAll_20190114.mat completed in: 0.039867 seconds
+conMat_GBRLDp_0p5km_compSurvAll_20190121.mat completed in: 0.062218 seconds
+conMat_GBRLDp_0p5km_compSurvAll_20190128.mat completed in: 0.04028 seconds
+conMat_GBRLDp_0p5km_compSurvTop50P_20181201.mat completed in: 0.082318 seconds
+conMat_GBRLDp_0p5km_compSurvTop50P_20181207.mat completed in: 0.039998 seconds
+conMat_GBRLDp_0p5km_compSurvTop50P_20181214.mat completed in: 0.041716 seconds
+conMat_GBRLDp_0p5km_compSurvTop50P_20181221.mat completed in: 0.039781 seconds
+conMat_GBRLDp_0p5km_compSurvTop50P_20181228.mat completed in: 0.03972 seconds
+conMat_GBRLDp_0p5km_compSurvTop50P_20190101.mat completed in: 0.03996 seconds
+conMat_GBRLDp_0p5km_compSurvTop50P_20190107.mat completed in: 0.040078 seconds
+conMat_GBRLDp_0p5km_compSurvTop50P_20190114.mat completed in: 47617.5925 seconds
+conMat_GBRLDp_0p5km_compSurvTop50P_20190121.mat completed in: 37645.641 seconds
+conMat_GBRLDp_0p5km_compSurvTop50P_20190128.mat completed in: 34937.5045 seconds
+conMat_GBRLDp_0p5km_compSurvBottom50P_20181201.mat completed in: 23121.1232 seconds
+conMat_GBRLDp_0p5km_compSurvBottom50P_20181207.mat completed in: 24877.2082 seconds
+conMat_GBRLDp_0p5km_compSurvBottom50P_20181214.mat completed in: 30627.2172 seconds
+conMat_GBRLDp_0p5km_compSurvBottom50P_20181221.mat completed in: 23730.7627 seconds
+conMat_GBRLDp_0p5km_compSurvBottom50P_20181228.mat completed in: 24901.1439 seconds
+conMat_GBRLDp_0p5km_compSurvBottom50P_20190101.mat completed in: 27970.0893 seconds
+conMat_GBRLDp_0p5km_compSurvBottom50P_20190107.mat completed in: 28881.7413 seconds
+conMat_GBRLDp_0p5km_compSurvBottom50P_20190114.mat completed in: 28784.5041 seconds
+conMat_GBRLDp_0p5km_compSurvBottom50P_20190121.mat completed in: 25077.149 seconds
+conMat_GBRLDp_0p5km_compSurvBottom50P_20190128.mat completed in: 24024.2515 seconds
+matlab execution successful for: cCM_GBRLDp_0p5km_2018-19
+
+finished job: cCM_GBRLDp_0p5km_2018-19
+
+
+started job: cCM_GBRLDp_0p5km_2019-20
+
+
+                            < M A T L A B (R) >
+                  Copyright 1984-2018 The MathWorks, Inc.
+                   R2018a (9.4.0.813654) 64-bit (glnxa64)
+                             February 23, 2018
+
+ 
+For online documentation, see http://www.mathworks.com/support
+For product information, visit www.mathworks.com.
+ 
+conMat_GBRLDp_0p5km_compSurvAll_20191201.mat completed in: 0.22733 seconds
+conMat_GBRLDp_0p5km_compSurvAll_20191207.mat completed in: 0.07289 seconds
+conMat_GBRLDp_0p5km_compSurvAll_20191214.mat completed in: 0.073262 seconds
+conMat_GBRLDp_0p5km_compSurvAll_20191221.mat completed in: 0.073462 seconds
+conMat_GBRLDp_0p5km_compSurvAll_20191228.mat completed in: 0.067768 seconds
+conMat_GBRLDp_0p5km_compSurvAll_20200101.mat completed in: 0.071861 seconds
+conMat_GBRLDp_0p5km_compSurvAll_20200107.mat completed in: 0.80249 seconds
+conMat_GBRLDp_0p5km_compSurvAll_20200114.mat completed in: 0.074286 seconds
+conMat_GBRLDp_0p5km_compSurvAll_20200121.mat completed in: 0.0739 seconds
+conMat_GBRLDp_0p5km_compSurvAll_20200128.mat completed in: 0.073596 seconds
+conMat_GBRLDp_0p5km_compSurvTop50P_20191201.mat completed in: 0.088122 seconds
+conMat_GBRLDp_0p5km_compSurvTop50P_20191207.mat completed in: 0.041819 seconds
+conMat_GBRLDp_0p5km_compSurvTop50P_20191214.mat completed in: 0.042098 seconds
+conMat_GBRLDp_0p5km_compSurvTop50P_20191221.mat completed in: 0.041444 seconds
+conMat_GBRLDp_0p5km_compSurvTop50P_20191228.mat completed in: 0.42814 seconds
+conMat_GBRLDp_0p5km_compSurvTop50P_20200101.mat completed in: 0.074443 seconds
+conMat_GBRLDp_0p5km_compSurvTop50P_20200107.mat completed in: 0.074695 seconds
+conMat_GBRLDp_0p5km_compSurvTop50P_20200114.mat completed in: 0.074209 seconds
+conMat_GBRLDp_0p5km_compSurvTop50P_20200121.mat completed in: 0.074063 seconds
+conMat_GBRLDp_0p5km_compSurvTop50P_20200128.mat completed in: 0.073816 seconds
+conMat_GBRLDp_0p5km_compSurvBottom50P_20191201.mat completed in: 0.087269 seconds
+conMat_GBRLDp_0p5km_compSurvBottom50P_20191207.mat completed in: 0.042672 seconds
+conMat_GBRLDp_0p5km_compSurvBottom50P_20191214.mat completed in: 0.042125 seconds
+conMat_GBRLDp_0p5km_compSurvBottom50P_20191221.mat completed in: 0.042555 seconds
+conMat_GBRLDp_0p5km_compSurvBottom50P_20191228.mat completed in: 0.042786 seconds
+conMat_GBRLDp_0p5km_compSurvBottom50P_20200101.mat completed in: 0.042299 seconds
+conMat_GBRLDp_0p5km_compSurvBottom50P_20200107.mat completed in: 0.042512 seconds
+conMat_GBRLDp_0p5km_compSurvBottom50P_20200114.mat completed in: 0.042269 seconds
+conMat_GBRLDp_0p5km_compSurvBottom50P_20200121.mat completed in: 24266.8525 seconds
+conMat_GBRLDp_0p5km_compSurvBottom50P_20200128.mat completed in: 26315.1568 seconds
+matlab execution successful for: cCM_GBRLDp_0p5km_2019-20
+
+finished job: cCM_GBRLDp_0p5km_2019-20
+
+
+started job: cCM_GBRLDp_0p5km_2020-21
+
+
+                            < M A T L A B (R) >
+                  Copyright 1984-2018 The MathWorks, Inc.
+                   R2018a (9.4.0.813654) 64-bit (glnxa64)
+                             February 23, 2018
+
+ 
+For online documentation, see http://www.mathworks.com/support
+For product information, visit www.mathworks.com.
+ 
+conMat_GBRLDp_0p5km_compSurvAll_20201201.mat completed in: 0.28957 seconds
+conMat_GBRLDp_0p5km_compSurvAll_20201207.mat completed in: 0.14876 seconds
+conMat_GBRLDp_0p5km_compSurvAll_20201214.mat completed in: 0.14965 seconds
+conMat_GBRLDp_0p5km_compSurvAll_20201221.mat completed in: 0.87788 seconds
+conMat_GBRLDp_0p5km_compSurvAll_20201228.mat completed in: 0.14633 seconds
+conMat_GBRLDp_0p5km_compSurvAll_20210101.mat completed in: 0.11278 seconds
+conMat_GBRLDp_0p5km_compSurvAll_20210107.mat completed in: 0.077455 seconds
+conMat_GBRLDp_0p5km_compSurvAll_20210114.mat completed in: 0.078452 seconds
+conMat_GBRLDp_0p5km_compSurvAll_20210121.mat completed in: 0.078023 seconds
+conMat_GBRLDp_0p5km_compSurvAll_20210128.mat completed in: 0.078417 seconds
+conMat_GBRLDp_0p5km_compSurvTop50P_20201201.mat completed in: 0.36762 seconds
+conMat_GBRLDp_0p5km_compSurvTop50P_20201207.mat completed in: 0.14973 seconds
+conMat_GBRLDp_0p5km_compSurvTop50P_20201214.mat completed in: 0.14898 seconds
+conMat_GBRLDp_0p5km_compSurvTop50P_20201221.mat completed in: 0.078844 seconds
+conMat_GBRLDp_0p5km_compSurvTop50P_20201228.mat completed in: 0.07795 seconds
+conMat_GBRLDp_0p5km_compSurvTop50P_20210101.mat completed in: 0.07866 seconds
+conMat_GBRLDp_0p5km_compSurvTop50P_20210107.mat completed in: 0.078575 seconds
+conMat_GBRLDp_0p5km_compSurvTop50P_20210114.mat completed in: 0.096153 seconds
+conMat_GBRLDp_0p5km_compSurvTop50P_20210121.mat completed in: 0.077853 seconds
+conMat_GBRLDp_0p5km_compSurvTop50P_20210128.mat completed in: 0.040445 seconds
+conMat_GBRLDp_0p5km_compSurvBottom50P_20201201.mat completed in: 0.042338 seconds
+conMat_GBRLDp_0p5km_compSurvBottom50P_20201207.mat completed in: 0.039963 seconds
+conMat_GBRLDp_0p5km_compSurvBottom50P_20201214.mat completed in: 0.040138 seconds
+conMat_GBRLDp_0p5km_compSurvBottom50P_20201221.mat completed in: 0.039686 seconds
+conMat_GBRLDp_0p5km_compSurvBottom50P_20201228.mat completed in: 0.041273 seconds
+conMat_GBRLDp_0p5km_compSurvBottom50P_20210101.mat completed in: 26426.6016 seconds
+conMat_GBRLDp_0p5km_compSurvBottom50P_20210107.mat completed in: 26775.2675 seconds
+conMat_GBRLDp_0p5km_compSurvBottom50P_20210114.mat completed in: 26105.9137 seconds
+conMat_GBRLDp_0p5km_compSurvBottom50P_20210121.mat completed in: 26348.7035 seconds
+conMat_GBRLDp_0p5km_compSurvBottom50P_20210128.mat completed in: 25967.0251 seconds
+matlab execution successful for: cCM_GBRLDp_0p5km_2020-21
+
+finished job: cCM_GBRLDp_0p5km_2020-21
+
+
+started job: cCM_GBRLDp_0p5km_2021-22
+
+
+                            < M A T L A B (R) >
+                  Copyright 1984-2018 The MathWorks, Inc.
+                   R2018a (9.4.0.813654) 64-bit (glnxa64)
+                             February 23, 2018
+
+ 
+For online documentation, see http://www.mathworks.com/support
+For product information, visit www.mathworks.com.
+ 
+conMat_GBRLDp_0p5km_compSurvAll_20211201.mat completed in: 0.19992 seconds
+conMat_GBRLDp_0p5km_compSurvAll_20211207.mat completed in: 0.14935 seconds
+conMat_GBRLDp_0p5km_compSurvAll_20211214.mat completed in: 0.14939 seconds
+conMat_GBRLDp_0p5km_compSurvAll_20211221.mat completed in: 0.14933 seconds
+conMat_GBRLDp_0p5km_compSurvAll_20211228.mat completed in: 0.87591 seconds
+conMat_GBRLDp_0p5km_compSurvAll_20220101.mat completed in: 0.14816 seconds
+conMat_GBRLDp_0p5km_compSurvAll_20220107.mat completed in: 0.077256 seconds
+conMat_GBRLDp_0p5km_compSurvAll_20220114.mat completed in: 0.078518 seconds
+conMat_GBRLDp_0p5km_compSurvAll_20220121.mat completed in: 0.078002 seconds
+conMat_GBRLDp_0p5km_compSurvAll_20220128.mat completed in: 0.077981 seconds
+conMat_GBRLDp_0p5km_compSurvTop50P_20211201.mat completed in: 0.33193 seconds
+conMat_GBRLDp_0p5km_compSurvTop50P_20211207.mat completed in: 0.15019 seconds
+conMat_GBRLDp_0p5km_compSurvTop50P_20211214.mat completed in: 0.14891 seconds
+conMat_GBRLDp_0p5km_compSurvTop50P_20211221.mat completed in: 0.11403 seconds
+conMat_GBRLDp_0p5km_compSurvTop50P_20211228.mat completed in: 0.078516 seconds
+conMat_GBRLDp_0p5km_compSurvTop50P_20220101.mat completed in: 0.078204 seconds
+conMat_GBRLDp_0p5km_compSurvTop50P_20220107.mat completed in: 0.078636 seconds
+conMat_GBRLDp_0p5km_compSurvTop50P_20220114.mat completed in: 0.077768 seconds
+conMat_GBRLDp_0p5km_compSurvTop50P_20220121.mat completed in: 0.096654 seconds
+conMat_GBRLDp_0p5km_compSurvTop50P_20220128.mat completed in: 42438.6213 seconds
+conMat_GBRLDp_0p5km_compSurvBottom50P_20211201.mat completed in: 28944.2033 seconds
+conMat_GBRLDp_0p5km_compSurvBottom50P_20211207.mat completed in: 28704.4142 seconds
+conMat_GBRLDp_0p5km_compSurvBottom50P_20211214.mat completed in: 28892.7148 seconds
+conMat_GBRLDp_0p5km_compSurvBottom50P_20211221.mat completed in: 26896.1091 seconds
+conMat_GBRLDp_0p5km_compSurvBottom50P_20211228.mat completed in: 25821.2596 seconds
+conMat_GBRLDp_0p5km_compSurvBottom50P_20220101.mat completed in: 28075.5881 seconds
+conMat_GBRLDp_0p5km_compSurvBottom50P_20220107.mat completed in: 29046.4779 seconds
+conMat_GBRLDp_0p5km_compSurvBottom50P_20220114.mat completed in: 26367.9211 seconds
+conMat_GBRLDp_0p5km_compSurvBottom50P_20220121.mat completed in: 26202.2928 seconds
+conMat_GBRLDp_0p5km_compSurvBottom50P_20220128.mat completed in: 24905.7156 seconds
+matlab execution successful for: cCM_GBRLDp_0p5km_2021-22
+
+finished job: cCM_GBRLDp_0p5km_2021-22
+
+
+started job: cCM_GBRLDp_0p5km_2022-23
+
+
+                            < M A T L A B (R) >
+                  Copyright 1984-2018 The MathWorks, Inc.
+                   R2018a (9.4.0.813654) 64-bit (glnxa64)
+                             February 23, 2018
+
+ 
+For online documentation, see http://www.mathworks.com/support
+For product information, visit www.mathworks.com.
+ 
+conMat_GBRLDp_0p5km_compSurvAll_20221201.mat completed in: 0.15847 seconds
+conMat_GBRLDp_0p5km_compSurvAll_20221207.mat completed in: 0.04065 seconds
+conMat_GBRLDp_0p5km_compSurvAll_20221214.mat completed in: 0.04094 seconds
+conMat_GBRLDp_0p5km_compSurvAll_20221221.mat completed in: 0.040776 seconds
+conMat_GBRLDp_0p5km_compSurvAll_20221228.mat completed in: 0.044623 seconds
+conMat_GBRLDp_0p5km_compSurvAll_20230101.mat completed in: 0.040815 seconds
+conMat_GBRLDp_0p5km_compSurvAll_20230107.mat completed in: 0.040695 seconds
+conMat_GBRLDp_0p5km_compSurvAll_20230114.mat completed in: 0.04022 seconds
+conMat_GBRLDp_0p5km_compSurvAll_20230121.mat completed in: 0.47678 seconds
+conMat_GBRLDp_0p5km_compSurvAll_20230128.mat completed in: 0.040504 seconds
+conMat_GBRLDp_0p5km_compSurvTop50P_20221201.mat completed in: 0.043105 seconds
+conMat_GBRLDp_0p5km_compSurvTop50P_20221207.mat completed in: 0.040459 seconds
+conMat_GBRLDp_0p5km_compSurvTop50P_20221214.mat completed in: 0.0407 seconds
+conMat_GBRLDp_0p5km_compSurvTop50P_20221221.mat completed in: 0.041026 seconds
+conMat_GBRLDp_0p5km_compSurvTop50P_20221228.mat completed in: 0.040453 seconds
+conMat_GBRLDp_0p5km_compSurvTop50P_20230101.mat completed in: 0.040371 seconds
+conMat_GBRLDp_0p5km_compSurvTop50P_20230107.mat completed in: 0.040344 seconds
+conMat_GBRLDp_0p5km_compSurvTop50P_20230114.mat completed in: 0.040452 seconds
+conMat_GBRLDp_0p5km_compSurvTop50P_20230121.mat completed in: 0.041036 seconds
+conMat_GBRLDp_0p5km_compSurvTop50P_20230128.mat completed in: 0.040477 seconds
+conMat_GBRLDp_0p5km_compSurvBottom50P_20221201.mat completed in: 0.04276 seconds
+conMat_GBRLDp_0p5km_compSurvBottom50P_20221207.mat completed in: 0.039898 seconds
+conMat_GBRLDp_0p5km_compSurvBottom50P_20221214.mat completed in: 0.040598 seconds
+conMat_GBRLDp_0p5km_compSurvBottom50P_20221221.mat completed in: 0.040841 seconds
+conMat_GBRLDp_0p5km_compSurvBottom50P_20221228.mat completed in: 41054.0805 seconds
+conMat_GBRLDp_0p5km_compSurvBottom50P_20230101.mat completed in: 42353.3342 seconds
+conMat_GBRLDp_0p5km_compSurvBottom50P_20230107.mat completed in: 44615.5668 seconds
+conMat_GBRLDp_0p5km_compSurvBottom50P_20230114.mat completed in: 53029.8287 seconds
+conMat_GBRLDp_0p5km_compSurvBottom50P_20230121.mat completed in: 50476.6734 seconds
+conMat_GBRLDp_0p5km_compSurvBottom50P_20230128.mat completed in: 44196.0068 seconds
+matlab execution successful for: cCM_GBRLDp_0p5km_2022-23
+
+finished job: cCM_GBRLDp_0p5km_2022-23
+
+
+started job: cCM_GBRLDp_1km_2018-19
+
+
+                            < M A T L A B (R) >
+                  Copyright 1984-2018 The MathWorks, Inc.
+                   R2018a (9.4.0.813654) 64-bit (glnxa64)
+                             February 23, 2018
+
+ 
+For online documentation, see http://www.mathworks.com/support
+For product information, visit www.mathworks.com.
+ 
+conMat_GBRLDp_1km_compSurvAll_20181201.mat completed in: 0.12882 seconds
+conMat_GBRLDp_1km_compSurvAll_20181207.mat completed in: 0.040917 seconds
+conMat_GBRLDp_1km_compSurvAll_20181214.mat completed in: 0.040481 seconds
+conMat_GBRLDp_1km_compSurvAll_20181221.mat completed in: 0.040693 seconds
+conMat_GBRLDp_1km_compSurvAll_20181228.mat completed in: 0.043392 seconds
+conMat_GBRLDp_1km_compSurvAll_20190101.mat completed in: 0.039981 seconds
+conMat_GBRLDp_1km_compSurvAll_20190107.mat completed in: 0.040086 seconds
+conMat_GBRLDp_1km_compSurvAll_20190114.mat completed in: 0.040085 seconds
+conMat_GBRLDp_1km_compSurvAll_20190121.mat completed in: 0.040396 seconds
+conMat_GBRLDp_1km_compSurvAll_20190128.mat completed in: 0.04267 seconds
+conMat_GBRLDp_1km_compSurvTop50P_20181201.mat completed in: 0.10531 seconds
+conMat_GBRLDp_1km_compSurvTop50P_20181207.mat completed in: 0.0404 seconds
+conMat_GBRLDp_1km_compSurvTop50P_20181214.mat completed in: 0.040319 seconds
+conMat_GBRLDp_1km_compSurvTop50P_20181221.mat completed in: 0.039991 seconds
+conMat_GBRLDp_1km_compSurvTop50P_20181228.mat completed in: 0.040121 seconds
+conMat_GBRLDp_1km_compSurvTop50P_20190101.mat completed in: 57190.4578 seconds
+conMat_GBRLDp_1km_compSurvTop50P_20190107.mat completed in: 50482.5472 seconds
+conMat_GBRLDp_1km_compSurvTop50P_20190114.mat completed in: 45821.5955 seconds
+conMat_GBRLDp_1km_compSurvTop50P_20190121.mat completed in: 47170.9503 seconds
+conMat_GBRLDp_1km_compSurvTop50P_20190128.mat completed in: 42068.7457 seconds
+conMat_GBRLDp_1km_compSurvBottom50P_20181201.mat completed in: 33545.8407 seconds
+conMat_GBRLDp_1km_compSurvBottom50P_20181207.mat completed in: 34081.0524 seconds
+conMat_GBRLDp_1km_compSurvBottom50P_20181214.mat completed in: 36256.2107 seconds
+conMat_GBRLDp_1km_compSurvBottom50P_20181221.mat completed in: 30951.0061 seconds
+conMat_GBRLDp_1km_compSurvBottom50P_20181228.mat completed in: 29337.935 seconds
+conMat_GBRLDp_1km_compSurvBottom50P_20190101.mat completed in: 29682.0294 seconds
+conMat_GBRLDp_1km_compSurvBottom50P_20190107.mat completed in: 36143.7789 seconds
+conMat_GBRLDp_1km_compSurvBottom50P_20190114.mat completed in: 28006.8064 seconds
+conMat_GBRLDp_1km_compSurvBottom50P_20190121.mat completed in: 26684.5619 seconds
+conMat_GBRLDp_1km_compSurvBottom50P_20190128.mat completed in: 26535.2376 seconds
+matlab execution successful for: cCM_GBRLDp_1km_2018-19
+
+finished job: cCM_GBRLDp_1km_2018-19
+
+
+started job: cCM_GBRLDp_1km_2019-20
+
+
+                            < M A T L A B (R) >
+                  Copyright 1984-2018 The MathWorks, Inc.
+                   R2018a (9.4.0.813654) 64-bit (glnxa64)
+                             February 23, 2018
+
+ 
+For online documentation, see http://www.mathworks.com/support
+For product information, visit www.mathworks.com.
+ 
+conMat_GBRLDp_1km_compSurvAll_20191201.mat completed in: 0.23791 seconds
+conMat_GBRLDp_1km_compSurvAll_20191207.mat completed in: 0.077386 seconds
+conMat_GBRLDp_1km_compSurvAll_20191214.mat completed in: 0.078743 seconds
+conMat_GBRLDp_1km_compSurvAll_20191221.mat completed in: 0.078836 seconds
+conMat_GBRLDp_1km_compSurvAll_20191228.mat completed in: 0.075084 seconds
+conMat_GBRLDp_1km_compSurvAll_20200101.mat completed in: 0.077943 seconds
+conMat_GBRLDp_1km_compSurvAll_20200107.mat completed in: 0.078677 seconds
+conMat_GBRLDp_1km_compSurvAll_20200114.mat completed in: 0.078587 seconds
+conMat_GBRLDp_1km_compSurvAll_20200121.mat completed in: 0.078763 seconds
+conMat_GBRLDp_1km_compSurvAll_20200128.mat completed in: 0.079564 seconds
+conMat_GBRLDp_1km_compSurvTop50P_20191201.mat completed in: 0.084869 seconds
+conMat_GBRLDp_1km_compSurvTop50P_20191207.mat completed in: 0.079076 seconds
+conMat_GBRLDp_1km_compSurvTop50P_20191214.mat completed in: 0.078255 seconds
+conMat_GBRLDp_1km_compSurvTop50P_20191221.mat completed in: 0.078494 seconds
+conMat_GBRLDp_1km_compSurvTop50P_20191228.mat completed in: 0.078836 seconds
+conMat_GBRLDp_1km_compSurvTop50P_20200101.mat completed in: 0.078277 seconds
+conMat_GBRLDp_1km_compSurvTop50P_20200107.mat completed in: 0.27055 seconds
+conMat_GBRLDp_1km_compSurvTop50P_20200114.mat completed in: 0.077627 seconds
+conMat_GBRLDp_1km_compSurvTop50P_20200121.mat completed in: 0.040396 seconds
+conMat_GBRLDp_1km_compSurvTop50P_20200128.mat completed in: 0.040353 seconds
+conMat_GBRLDp_1km_compSurvBottom50P_20191201.mat completed in: 0.084891 seconds
+conMat_GBRLDp_1km_compSurvBottom50P_20191207.mat completed in: 0.040167 seconds
+conMat_GBRLDp_1km_compSurvBottom50P_20191214.mat completed in: 0.040123 seconds
+conMat_GBRLDp_1km_compSurvBottom50P_20191221.mat completed in: 57024.3565 seconds
+conMat_GBRLDp_1km_compSurvBottom50P_20191228.mat completed in: 55465.1196 seconds
+conMat_GBRLDp_1km_compSurvBottom50P_20200101.mat completed in: 56413.4027 seconds
+conMat_GBRLDp_1km_compSurvBottom50P_20200107.mat completed in: 58187.7563 seconds
+conMat_GBRLDp_1km_compSurvBottom50P_20200114.mat completed in: 51261.913 seconds
+conMat_GBRLDp_1km_compSurvBottom50P_20200121.mat completed in: 56063.1558 seconds
+conMat_GBRLDp_1km_compSurvBottom50P_20200128.mat completed in: 58342.9511 seconds
+matlab execution successful for: cCM_GBRLDp_1km_2019-20
+
+finished job: cCM_GBRLDp_1km_2019-20
+
+
+started job: cCM_GBRLDp_1km_2020-21
+
+
+                            < M A T L A B (R) >
+                  Copyright 1984-2018 The MathWorks, Inc.
+                   R2018a (9.4.0.813654) 64-bit (glnxa64)
+                             February 23, 2018
+
+ 
+For online documentation, see http://www.mathworks.com/support
+For product information, visit www.mathworks.com.
+ 
+conMat_GBRLDp_1km_compSurvAll_20201201.mat completed in: 0.20303 seconds
+conMat_GBRLDp_1km_compSurvAll_20201207.mat completed in: 0.077075 seconds
+conMat_GBRLDp_1km_compSurvAll_20201214.mat completed in: 0.07788 seconds
+conMat_GBRLDp_1km_compSurvAll_20201221.mat completed in: 0.07908 seconds
+conMat_GBRLDp_1km_compSurvAll_20201228.mat completed in: 0.075465 seconds
+conMat_GBRLDp_1km_compSurvAll_20210101.mat completed in: 0.077964 seconds
+conMat_GBRLDp_1km_compSurvAll_20210107.mat completed in: 0.07812 seconds
+conMat_GBRLDp_1km_compSurvAll_20210114.mat completed in: 0.078495 seconds
+conMat_GBRLDp_1km_compSurvAll_20210121.mat completed in: 0.079019 seconds
+conMat_GBRLDp_1km_compSurvAll_20210128.mat completed in: 0.079549 seconds
+conMat_GBRLDp_1km_compSurvTop50P_20201201.mat completed in: 0.085142 seconds
+conMat_GBRLDp_1km_compSurvTop50P_20201207.mat completed in: 0.07903 seconds
+conMat_GBRLDp_1km_compSurvTop50P_20201214.mat completed in: 0.078352 seconds
+conMat_GBRLDp_1km_compSurvTop50P_20201221.mat completed in: 0.078101 seconds
+conMat_GBRLDp_1km_compSurvTop50P_20201228.mat completed in: 0.078986 seconds
+conMat_GBRLDp_1km_compSurvTop50P_20210101.mat completed in: 0.078568 seconds
+conMat_GBRLDp_1km_compSurvTop50P_20210107.mat completed in: 0.27006 seconds
+conMat_GBRLDp_1km_compSurvTop50P_20210114.mat completed in: 0.078421 seconds
+conMat_GBRLDp_1km_compSurvTop50P_20210121.mat completed in: 79720.4772 seconds
+conMat_GBRLDp_1km_compSurvTop50P_20210128.mat completed in: 83080.8991 seconds
+conMat_GBRLDp_1km_compSurvBottom50P_20201201.mat completed in: 56071.4778 seconds
+conMat_GBRLDp_1km_compSurvBottom50P_20201207.mat completed in: 51489.0131 seconds
+conMat_GBRLDp_1km_compSurvBottom50P_20201214.mat completed in: 49904.5985 seconds
+conMat_GBRLDp_1km_compSurvBottom50P_20201221.mat completed in: 52124.0312 seconds
+conMat_GBRLDp_1km_compSurvBottom50P_20201228.mat completed in: 49520.7514 seconds
+conMat_GBRLDp_1km_compSurvBottom50P_20210101.mat completed in: 49461.3283 seconds
+conMat_GBRLDp_1km_compSurvBottom50P_20210107.mat completed in: 48864.9175 seconds
+conMat_GBRLDp_1km_compSurvBottom50P_20210114.mat completed in: 48163.5425 seconds
+conMat_GBRLDp_1km_compSurvBottom50P_20210121.mat completed in: 51753.8875 seconds
+conMat_GBRLDp_1km_compSurvBottom50P_20210128.mat completed in: 60900.108 seconds
+matlab execution successful for: cCM_GBRLDp_1km_2020-21
+
+finished job: cCM_GBRLDp_1km_2020-21
+
+
+started job: cCM_GBRLDp_1km_2021-22
+
+
+                            < M A T L A B (R) >
+                  Copyright 1984-2018 The MathWorks, Inc.
+                   R2018a (9.4.0.813654) 64-bit (glnxa64)
+                             February 23, 2018
+
+ 
+For online documentation, see http://www.mathworks.com/support
+For product information, visit www.mathworks.com.
+ 
+conMat_GBRLDp_1km_compSurvAll_20211201.mat completed in: 0.051408 seconds
+conMat_GBRLDp_1km_compSurvAll_20211207.mat completed in: 0.040447 seconds
+conMat_GBRLDp_1km_compSurvAll_20211214.mat completed in: 0.040578 seconds
+conMat_GBRLDp_1km_compSurvAll_20211221.mat completed in: 0.040221 seconds
+conMat_GBRLDp_1km_compSurvAll_20211228.mat completed in: 0.044597 seconds
+conMat_GBRLDp_1km_compSurvAll_20220101.mat completed in: 0.040569 seconds
+conMat_GBRLDp_1km_compSurvAll_20220107.mat completed in: 0.039903 seconds
+conMat_GBRLDp_1km_compSurvAll_20220114.mat completed in: 0.039893 seconds
+conMat_GBRLDp_1km_compSurvAll_20220121.mat completed in: 0.039621 seconds
+conMat_GBRLDp_1km_compSurvAll_20220128.mat completed in: 0.039452 seconds
+conMat_GBRLDp_1km_compSurvTop50P_20211201.mat completed in: 0.041662 seconds
+conMat_GBRLDp_1km_compSurvTop50P_20211207.mat completed in: 0.040172 seconds
+conMat_GBRLDp_1km_compSurvTop50P_20211214.mat completed in: 0.18599 seconds
+conMat_GBRLDp_1km_compSurvTop50P_20211221.mat completed in: 0.03995 seconds
+conMat_GBRLDp_1km_compSurvTop50P_20211228.mat completed in: 0.040511 seconds
+conMat_GBRLDp_1km_compSurvTop50P_20220101.mat completed in: 0.039702 seconds
+conMat_GBRLDp_1km_compSurvTop50P_20220107.mat completed in: 0.039792 seconds
+conMat_GBRLDp_1km_compSurvTop50P_20220114.mat completed in: 0.039773 seconds
+conMat_GBRLDp_1km_compSurvTop50P_20220121.mat completed in: 0.039661 seconds
+conMat_GBRLDp_1km_compSurvTop50P_20220128.mat completed in: 0.039692 seconds
+conMat_GBRLDp_1km_compSurvBottom50P_20211201.mat completed in: 0.041989 seconds
+conMat_GBRLDp_1km_compSurvBottom50P_20211207.mat completed in: 0.039901 seconds
+conMat_GBRLDp_1km_compSurvBottom50P_20211214.mat completed in: 33070.9472 seconds
+conMat_GBRLDp_1km_compSurvBottom50P_20211221.mat completed in: 31064.208 seconds
+conMat_GBRLDp_1km_compSurvBottom50P_20211228.mat completed in: 29946.5938 seconds
+conMat_GBRLDp_1km_compSurvBottom50P_20220101.mat completed in: 31782.628 seconds
+conMat_GBRLDp_1km_compSurvBottom50P_20220107.mat completed in: 33944.6349 seconds
+conMat_GBRLDp_1km_compSurvBottom50P_20220114.mat completed in: 33115.5401 seconds
+conMat_GBRLDp_1km_compSurvBottom50P_20220121.mat completed in: 32093.9229 seconds
+conMat_GBRLDp_1km_compSurvBottom50P_20220128.mat completed in: 31174.0073 seconds
+matlab execution successful for: cCM_GBRLDp_1km_2021-22
+
+finished job: cCM_GBRLDp_1km_2021-22
+
+
+started job: cCM_GBRLDp_1km_2022-23
+
+
+                            < M A T L A B (R) >
+                  Copyright 1984-2018 The MathWorks, Inc.
+                   R2018a (9.4.0.813654) 64-bit (glnxa64)
+                             February 23, 2018
+
+ 
+For online documentation, see http://www.mathworks.com/support
+For product information, visit www.mathworks.com.
+ 
+conMat_GBRLDp_1km_compSurvAll_20221201.mat completed in: 0.0638 seconds
+conMat_GBRLDp_1km_compSurvAll_20221207.mat completed in: 0.039891 seconds
+conMat_GBRLDp_1km_compSurvAll_20221214.mat completed in: 0.040211 seconds
+conMat_GBRLDp_1km_compSurvAll_20221221.mat completed in: 0.040379 seconds
+conMat_GBRLDp_1km_compSurvAll_20221228.mat completed in: 0.042387 seconds
+conMat_GBRLDp_1km_compSurvAll_20230101.mat completed in: 0.039608 seconds
+conMat_GBRLDp_1km_compSurvAll_20230107.mat completed in: 0.039592 seconds
+conMat_GBRLDp_1km_compSurvAll_20230114.mat completed in: 0.039621 seconds
+conMat_GBRLDp_1km_compSurvAll_20230121.mat completed in: 0.039678 seconds
+conMat_GBRLDp_1km_compSurvAll_20230128.mat completed in: 0.039676 seconds
+conMat_GBRLDp_1km_compSurvTop50P_20221201.mat completed in: 0.040413 seconds
+conMat_GBRLDp_1km_compSurvTop50P_20221207.mat completed in: 0.48003 seconds
+conMat_GBRLDp_1km_compSurvTop50P_20221214.mat completed in: 0.039649 seconds
+conMat_GBRLDp_1km_compSurvTop50P_20221221.mat completed in: 0.039326 seconds
+conMat_GBRLDp_1km_compSurvTop50P_20221228.mat completed in: 0.040256 seconds
+conMat_GBRLDp_1km_compSurvTop50P_20230101.mat completed in: 0.039618 seconds
+conMat_GBRLDp_1km_compSurvTop50P_20230107.mat completed in: 0.040299 seconds
+conMat_GBRLDp_1km_compSurvTop50P_20230114.mat completed in: 50891.2936 seconds
+conMat_GBRLDp_1km_compSurvTop50P_20230121.mat completed in: 49295.8605 seconds
+conMat_GBRLDp_1km_compSurvTop50P_20230128.mat completed in: 48809.4523 seconds
+conMat_GBRLDp_1km_compSurvBottom50P_20221201.mat completed in: 34334.7675 seconds
+conMat_GBRLDp_1km_compSurvBottom50P_20221207.mat completed in: 32180.1194 seconds
+conMat_GBRLDp_1km_compSurvBottom50P_20221214.mat completed in: 32456.4923 seconds
+conMat_GBRLDp_1km_compSurvBottom50P_20221221.mat completed in: 30881.1318 seconds
+conMat_GBRLDp_1km_compSurvBottom50P_20221228.mat completed in: 30702.3928 seconds
+conMat_GBRLDp_1km_compSurvBottom50P_20230101.mat completed in: 30868.448 seconds
+conMat_GBRLDp_1km_compSurvBottom50P_20230107.mat completed in: 33035.4283 seconds
+conMat_GBRLDp_1km_compSurvBottom50P_20230114.mat completed in: 33481.224 seconds
+conMat_GBRLDp_1km_compSurvBottom50P_20230121.mat completed in: 33463.1403 seconds
+conMat_GBRLDp_1km_compSurvBottom50P_20230128.mat completed in: 32053.3718 seconds
+matlab execution successful for: cCM_GBRLDp_1km_2022-23
+
+finished job: cCM_GBRLDp_1km_2022-23
+
+
+started job: cCM_GBRLDp_1p5km_2018-19
+
+
+                            < M A T L A B (R) >
+                  Copyright 1984-2018 The MathWorks, Inc.
+                   R2018a (9.4.0.813654) 64-bit (glnxa64)
+                             February 23, 2018
+
+ 
+For online documentation, see http://www.mathworks.com/support
+For product information, visit www.mathworks.com.
+ 
+conMat_GBRLDp_1p5km_compSurvAll_20181201.mat completed in: 0.076616 seconds
+conMat_GBRLDp_1p5km_compSurvAll_20181207.mat completed in: 0.040473 seconds
+conMat_GBRLDp_1p5km_compSurvAll_20181214.mat completed in: 0.040203 seconds
+conMat_GBRLDp_1p5km_compSurvAll_20181221.mat completed in: 0.039938 seconds
+conMat_GBRLDp_1p5km_compSurvAll_20181228.mat completed in: 0.043359 seconds
+conMat_GBRLDp_1p5km_compSurvAll_20190101.mat completed in: 0.040754 seconds
+conMat_GBRLDp_1p5km_compSurvAll_20190107.mat completed in: 0.039351 seconds
+conMat_GBRLDp_1p5km_compSurvAll_20190114.mat completed in: 0.039606 seconds
+conMat_GBRLDp_1p5km_compSurvAll_20190121.mat completed in: 0.039992 seconds
+conMat_GBRLDp_1p5km_compSurvAll_20190128.mat completed in: 0.040586 seconds
+conMat_GBRLDp_1p5km_compSurvTop50P_20181201.mat completed in: 0.042608 seconds
+conMat_GBRLDp_1p5km_compSurvTop50P_20181207.mat completed in: 0.11526 seconds
+conMat_GBRLDp_1p5km_compSurvTop50P_20181214.mat completed in: 0.040269 seconds
+conMat_GBRLDp_1p5km_compSurvTop50P_20181221.mat completed in: 0.040042 seconds
+conMat_GBRLDp_1p5km_compSurvTop50P_20181228.mat completed in: 0.041725 seconds
+conMat_GBRLDp_1p5km_compSurvTop50P_20190101.mat completed in: 59898.0933 seconds
+conMat_GBRLDp_1p5km_compSurvTop50P_20190107.mat completed in: 55216.6116 seconds
+conMat_GBRLDp_1p5km_compSurvTop50P_20190114.mat completed in: 55070.0936 seconds
+conMat_GBRLDp_1p5km_compSurvTop50P_20190121.mat completed in: 54610.2009 seconds
+conMat_GBRLDp_1p5km_compSurvTop50P_20190128.mat completed in: 56843.2234 seconds
+conMat_GBRLDp_1p5km_compSurvBottom50P_20181201.mat completed in: 39530.1448 seconds
+conMat_GBRLDp_1p5km_compSurvBottom50P_20181207.mat completed in: 37526.6855 seconds
+conMat_GBRLDp_1p5km_compSurvBottom50P_20181214.mat completed in: 36545.8353 seconds
+conMat_GBRLDp_1p5km_compSurvBottom50P_20181221.mat completed in: 32332.2407 seconds
+conMat_GBRLDp_1p5km_compSurvBottom50P_20181228.mat completed in: 39859.7977 seconds
+conMat_GBRLDp_1p5km_compSurvBottom50P_20190101.mat completed in: 32546.471 seconds
+conMat_GBRLDp_1p5km_compSurvBottom50P_20190107.mat completed in: 33226.7964 seconds
+conMat_GBRLDp_1p5km_compSurvBottom50P_20190114.mat completed in: 33171.4112 seconds
+conMat_GBRLDp_1p5km_compSurvBottom50P_20190121.mat completed in: 29593.6741 seconds
+conMat_GBRLDp_1p5km_compSurvBottom50P_20190128.mat completed in: 34605.2974 seconds
+matlab execution successful for: cCM_GBRLDp_1p5km_2018-19
+
+finished job: cCM_GBRLDp_1p5km_2018-19
+
+
+started job: cCM_GBRLDp_1p5km_2019-20
+
+
+                            < M A T L A B (R) >
+                  Copyright 1984-2018 The MathWorks, Inc.
+                   R2018a (9.4.0.813654) 64-bit (glnxa64)
+                             February 23, 2018
+
+ 
+For online documentation, see http://www.mathworks.com/support
+For product information, visit www.mathworks.com.
+ 
+conMat_GBRLDp_1p5km_compSurvAll_20191201.mat completed in: 0.43795 seconds
+conMat_GBRLDp_1p5km_compSurvAll_20191207.mat completed in: 0.041117 seconds
+conMat_GBRLDp_1p5km_compSurvAll_20191214.mat completed in: 0.041113 seconds
+conMat_GBRLDp_1p5km_compSurvAll_20191221.mat completed in: 0.041065 seconds
+conMat_GBRLDp_1p5km_compSurvAll_20191228.mat completed in: 0.044647 seconds
+conMat_GBRLDp_1p5km_compSurvAll_20200101.mat completed in: 0.040717 seconds
+conMat_GBRLDp_1p5km_compSurvAll_20200107.mat completed in: 0.040382 seconds
+conMat_GBRLDp_1p5km_compSurvAll_20200114.mat completed in: 0.040499 seconds
+conMat_GBRLDp_1p5km_compSurvAll_20200121.mat completed in: 0.039859 seconds
+conMat_GBRLDp_1p5km_compSurvAll_20200128.mat completed in: 0.04032 seconds
+conMat_GBRLDp_1p5km_compSurvTop50P_20191201.mat completed in: 0.08215 seconds
+conMat_GBRLDp_1p5km_compSurvTop50P_20191207.mat completed in: 0.039809 seconds
+conMat_GBRLDp_1p5km_compSurvTop50P_20191214.mat completed in: 0.039547 seconds
+conMat_GBRLDp_1p5km_compSurvTop50P_20191221.mat completed in: 91978.5315 seconds
+conMat_GBRLDp_1p5km_compSurvTop50P_20191228.mat completed in: 96871.5823 seconds
+conMat_GBRLDp_1p5km_compSurvTop50P_20200101.mat completed in: 89412.3191 seconds
+conMat_GBRLDp_1p5km_compSurvTop50P_20200107.mat completed in: 78952.7417 seconds
+conMat_GBRLDp_1p5km_compSurvTop50P_20200114.mat completed in: 67274.5584 seconds
+conMat_GBRLDp_1p5km_compSurvTop50P_20200121.mat completed in: 76241.611 seconds
+conMat_GBRLDp_1p5km_compSurvTop50P_20200128.mat completed in: 72202.2165 seconds
+conMat_GBRLDp_1p5km_compSurvBottom50P_20191201.mat completed in: 0.40981 seconds
+conMat_GBRLDp_1p5km_compSurvBottom50P_20191207.mat completed in: 54742.2542 seconds
+conMat_GBRLDp_1p5km_compSurvBottom50P_20191214.mat completed in: 57334.8415 seconds
+conMat_GBRLDp_1p5km_compSurvBottom50P_20191221.mat completed in: 57847.9628 seconds
+conMat_GBRLDp_1p5km_compSurvBottom50P_20191228.mat completed in: 56044.5822 seconds
+conMat_GBRLDp_1p5km_compSurvBottom50P_20200101.mat completed in: 54710.575 seconds
+=>> PBS: job killed: walltime 864019 exceeded limit 864000
+
+started job: cCM_GBRLDp_1p5km_2020-21
+
+
+                            < M A T L A B (R) >
+                  Copyright 1984-2018 The MathWorks, Inc.
+                   R2018a (9.4.0.813654) 64-bit (glnxa64)
+                             February 23, 2018
+
+ 
+For online documentation, see http://www.mathworks.com/support
+For product information, visit www.mathworks.com.
+ 
+conMat_GBRLDp_1p5km_compSurvAll_20201201.mat completed in: 0.15853 seconds
+conMat_GBRLDp_1p5km_compSurvAll_20201207.mat completed in: 0.042625 seconds
+conMat_GBRLDp_1p5km_compSurvAll_20201214.mat completed in: 0.043828 seconds
+conMat_GBRLDp_1p5km_compSurvAll_20201221.mat completed in: 0.043461 seconds
+conMat_GBRLDp_1p5km_compSurvAll_20201228.mat completed in: 0.046968 seconds
+conMat_GBRLDp_1p5km_compSurvAll_20210101.mat completed in: 0.042784 seconds
+conMat_GBRLDp_1p5km_compSurvAll_20210107.mat completed in: 0.042426 seconds
+conMat_GBRLDp_1p5km_compSurvAll_20210114.mat completed in: 0.042775 seconds
+conMat_GBRLDp_1p5km_compSurvAll_20210121.mat completed in: 0.042004 seconds
+conMat_GBRLDp_1p5km_compSurvAll_20210128.mat completed in: 0.042337 seconds
+conMat_GBRLDp_1p5km_compSurvTop50P_20201201.mat completed in: 0.088048 seconds
+conMat_GBRLDp_1p5km_compSurvTop50P_20201207.mat completed in: 0.042399 seconds
+conMat_GBRLDp_1p5km_compSurvTop50P_20201214.mat completed in: 0.041957 seconds
+conMat_GBRLDp_1p5km_compSurvTop50P_20201221.mat completed in: 60071.4659 seconds
+conMat_GBRLDp_1p5km_compSurvTop50P_20201228.mat completed in: 60652.8004 seconds
+conMat_GBRLDp_1p5km_compSurvTop50P_20210101.mat completed in: 62532.301 seconds
+conMat_GBRLDp_1p5km_compSurvTop50P_20210107.mat completed in: 60529.4249 seconds
+conMat_GBRLDp_1p5km_compSurvTop50P_20210114.mat completed in: 62999.1054 seconds
+conMat_GBRLDp_1p5km_compSurvTop50P_20210121.mat completed in: 56379.496 seconds
+conMat_GBRLDp_1p5km_compSurvTop50P_20210128.mat completed in: 56054.5073 seconds
+conMat_GBRLDp_1p5km_compSurvBottom50P_20201201.mat completed in: 38483.1325 seconds
+conMat_GBRLDp_1p5km_compSurvBottom50P_20201207.mat completed in: 40065.7348 seconds
+conMat_GBRLDp_1p5km_compSurvBottom50P_20201214.mat completed in: 40317.1023 seconds
+conMat_GBRLDp_1p5km_compSurvBottom50P_20201221.mat completed in: 43858.5855 seconds
+conMat_GBRLDp_1p5km_compSurvBottom50P_20201228.mat completed in: 44131.7988 seconds
+conMat_GBRLDp_1p5km_compSurvBottom50P_20210101.mat completed in: 43923.7376 seconds
+conMat_GBRLDp_1p5km_compSurvBottom50P_20210107.mat completed in: 39331.3234 seconds
+conMat_GBRLDp_1p5km_compSurvBottom50P_20210114.mat completed in: 39812.502 seconds
+conMat_GBRLDp_1p5km_compSurvBottom50P_20210121.mat completed in: 43859.5963 seconds
+conMat_GBRLDp_1p5km_compSurvBottom50P_20210128.mat completed in: 40344.5306 seconds
+matlab execution successful for: cCM_GBRLDp_1p5km_2020-21
+
+finished job: cCM_GBRLDp_1p5km_2020-21
+
+
+started job: cCM_GBRLDp_1p5km_2021-22
+
+
+                            < M A T L A B (R) >
+                  Copyright 1984-2018 The MathWorks, Inc.
+                   R2018a (9.4.0.813654) 64-bit (glnxa64)
+                             February 23, 2018
+
+ 
+For online documentation, see http://www.mathworks.com/support
+For product information, visit www.mathworks.com.
+ 
+conMat_GBRLDp_1p5km_compSurvAll_20211201.mat completed in: 0.14639 seconds
+conMat_GBRLDp_1p5km_compSurvAll_20211207.mat completed in: 0.041235 seconds
+conMat_GBRLDp_1p5km_compSurvAll_20211214.mat completed in: 0.041406 seconds
+conMat_GBRLDp_1p5km_compSurvAll_20211221.mat completed in: 0.041276 seconds
+conMat_GBRLDp_1p5km_compSurvAll_20211228.mat completed in: 0.045313 seconds
+conMat_GBRLDp_1p5km_compSurvAll_20220101.mat completed in: 0.041492 seconds
+conMat_GBRLDp_1p5km_compSurvAll_20220107.mat completed in: 0.040615 seconds
+conMat_GBRLDp_1p5km_compSurvAll_20220114.mat completed in: 0.040317 seconds
+conMat_GBRLDp_1p5km_compSurvAll_20220121.mat completed in: 0.041381 seconds
+conMat_GBRLDp_1p5km_compSurvAll_20220128.mat completed in: 0.040366 seconds
+conMat_GBRLDp_1p5km_compSurvTop50P_20211201.mat completed in: 0.042739 seconds
+conMat_GBRLDp_1p5km_compSurvTop50P_20211207.mat completed in: 0.039936 seconds
+conMat_GBRLDp_1p5km_compSurvTop50P_20211214.mat completed in: 0.040355 seconds
+conMat_GBRLDp_1p5km_compSurvTop50P_20211221.mat completed in: 0.040266 seconds
+conMat_GBRLDp_1p5km_compSurvTop50P_20211228.mat completed in: 0.041581 seconds
+conMat_GBRLDp_1p5km_compSurvTop50P_20220101.mat completed in: 0.040592 seconds
+conMat_GBRLDp_1p5km_compSurvTop50P_20220107.mat completed in: 0.040366 seconds
+conMat_GBRLDp_1p5km_compSurvTop50P_20220114.mat completed in: 0.04186 seconds
+conMat_GBRLDp_1p5km_compSurvTop50P_20220121.mat completed in: 0.040814 seconds
+conMat_GBRLDp_1p5km_compSurvTop50P_20220128.mat completed in: 0.041015 seconds
+conMat_GBRLDp_1p5km_compSurvBottom50P_20211201.mat completed in: 0.098952 seconds
+conMat_GBRLDp_1p5km_compSurvBottom50P_20211207.mat completed in: 0.040755 seconds
+conMat_GBRLDp_1p5km_compSurvBottom50P_20211214.mat completed in: 0.041141 seconds
+conMat_GBRLDp_1p5km_compSurvBottom50P_20211221.mat completed in: 0.042164 seconds
+conMat_GBRLDp_1p5km_compSurvBottom50P_20211228.mat completed in: 0.041089 seconds
+conMat_GBRLDp_1p5km_compSurvBottom50P_20220101.mat completed in: 0.040334 seconds
+conMat_GBRLDp_1p5km_compSurvBottom50P_20220107.mat completed in: 0.040909 seconds
+conMat_GBRLDp_1p5km_compSurvBottom50P_20220114.mat completed in: 65534.0368 seconds
+conMat_GBRLDp_1p5km_compSurvBottom50P_20220121.mat completed in: 40139.4048 seconds
+conMat_GBRLDp_1p5km_compSurvBottom50P_20220128.mat completed in: 41662.9792 seconds
+matlab execution successful for: cCM_GBRLDp_1p5km_2021-22
+
+finished job: cCM_GBRLDp_1p5km_2021-22
+
+
+started job: cCM_GBRLDp_1p5km_2022-23
+
+
+                            < M A T L A B (R) >
+                  Copyright 1984-2018 The MathWorks, Inc.
+                   R2018a (9.4.0.813654) 64-bit (glnxa64)
+                             February 23, 2018
+
+ 
+For online documentation, see http://www.mathworks.com/support
+For product information, visit www.mathworks.com.
+ 
+conMat_GBRLDp_1p5km_compSurvAll_20221201.mat completed in: 0.3133 seconds
+conMat_GBRLDp_1p5km_compSurvAll_20221207.mat completed in: 0.042868 seconds
+conMat_GBRLDp_1p5km_compSurvAll_20221214.mat completed in: 0.042014 seconds
+conMat_GBRLDp_1p5km_compSurvAll_20221221.mat completed in: 0.042159 seconds
+conMat_GBRLDp_1p5km_compSurvAll_20221228.mat completed in: 0.048078 seconds
+conMat_GBRLDp_1p5km_compSurvAll_20230101.mat completed in: 0.042201 seconds
+conMat_GBRLDp_1p5km_compSurvAll_20230107.mat completed in: 0.04118 seconds
+conMat_GBRLDp_1p5km_compSurvAll_20230114.mat completed in: 0.041788 seconds
+conMat_GBRLDp_1p5km_compSurvAll_20230121.mat completed in: 0.041161 seconds
+conMat_GBRLDp_1p5km_compSurvAll_20230128.mat completed in: 0.041573 seconds
+conMat_GBRLDp_1p5km_compSurvTop50P_20221201.mat completed in: 0.064122 seconds
+conMat_GBRLDp_1p5km_compSurvTop50P_20221207.mat completed in: 0.041302 seconds
+conMat_GBRLDp_1p5km_compSurvTop50P_20221214.mat completed in: 0.041425 seconds
+conMat_GBRLDp_1p5km_compSurvTop50P_20221221.mat completed in: 0.041286 seconds
+conMat_GBRLDp_1p5km_compSurvTop50P_20221228.mat completed in: 0.041302 seconds
+conMat_GBRLDp_1p5km_compSurvTop50P_20230101.mat completed in: 0.041284 seconds
+conMat_GBRLDp_1p5km_compSurvTop50P_20230107.mat completed in: 0.041054 seconds
+conMat_GBRLDp_1p5km_compSurvTop50P_20230114.mat completed in: 0.041293 seconds
+conMat_GBRLDp_1p5km_compSurvTop50P_20230121.mat completed in: 0.041613 seconds
+conMat_GBRLDp_1p5km_compSurvTop50P_20230128.mat completed in: 0.041519 seconds
+conMat_GBRLDp_1p5km_compSurvBottom50P_20221201.mat completed in: 0.1172 seconds
+conMat_GBRLDp_1p5km_compSurvBottom50P_20221207.mat completed in: 0.041666 seconds
+conMat_GBRLDp_1p5km_compSurvBottom50P_20221214.mat completed in: 0.041623 seconds
+conMat_GBRLDp_1p5km_compSurvBottom50P_20221221.mat completed in: 64175.1035 seconds
+conMat_GBRLDp_1p5km_compSurvBottom50P_20221228.mat completed in: 45649.6573 seconds
+conMat_GBRLDp_1p5km_compSurvBottom50P_20230101.mat completed in: 51436.5178 seconds
+conMat_GBRLDp_1p5km_compSurvBottom50P_20230107.mat completed in: 53490.9434 seconds
+conMat_GBRLDp_1p5km_compSurvBottom50P_20230114.mat completed in: 73251.9949 seconds
+conMat_GBRLDp_1p5km_compSurvBottom50P_20230121.mat completed in: 61672.3108 seconds
+conMat_GBRLDp_1p5km_compSurvBottom50P_20230128.mat completed in: 40537.1895 seconds
+matlab execution successful for: cCM_GBRLDp_1p5km_2022-23
+
+finished job: cCM_GBRLDp_1p5km_2022-23
+
+
+started job: cCM_GBRLUp_0p5km_2018-19
+
+
+                            < M A T L A B (R) >
+                  Copyright 1984-2018 The MathWorks, Inc.
+                   R2018a (9.4.0.813654) 64-bit (glnxa64)
+                             February 23, 2018
+
+ 
+For online documentation, see http://www.mathworks.com/support
+For product information, visit www.mathworks.com.
+ 
+conMat_GBRLUp_0p5km_compSurvAll_20181201.mat completed in: 6.3279 seconds
+conMat_GBRLUp_0p5km_compSurvAll_20181207.mat completed in: 0.040294 seconds
+conMat_GBRLUp_0p5km_compSurvAll_20181214.mat completed in: 7.4207 seconds
+conMat_GBRLUp_0p5km_compSurvAll_20181221.mat completed in: 0.042382 seconds
+conMat_GBRLUp_0p5km_compSurvAll_20181228.mat completed in: 0.043044 seconds
+conMat_GBRLUp_0p5km_compSurvAll_20190101.mat completed in: 28433.1121 seconds
+conMat_GBRLUp_0p5km_compSurvAll_20190107.mat completed in: 30155.6567 seconds
+conMat_GBRLUp_0p5km_compSurvAll_20190114.mat completed in: 29336.6048 seconds
+conMat_GBRLUp_0p5km_compSurvAll_20190121.mat completed in: 27768.8479 seconds
+conMat_GBRLUp_0p5km_compSurvAll_20190128.mat completed in: 26370.9517 seconds
+conMat_GBRLUp_0p5km_compSurvTop50P_20181201.mat completed in: 38185.8233 seconds
+conMat_GBRLUp_0p5km_compSurvTop50P_20181207.mat completed in: 39256.8568 seconds
+conMat_GBRLUp_0p5km_compSurvTop50P_20181214.mat completed in: 44009.2962 seconds
+conMat_GBRLUp_0p5km_compSurvTop50P_20181221.mat completed in: 40948.2212 seconds
+conMat_GBRLUp_0p5km_compSurvTop50P_20181228.mat completed in: 38765.4501 seconds
+conMat_GBRLUp_0p5km_compSurvTop50P_20190101.mat completed in: 40374.3292 seconds
+conMat_GBRLUp_0p5km_compSurvTop50P_20190107.mat completed in: 41533.0536 seconds
+conMat_GBRLUp_0p5km_compSurvTop50P_20190114.mat completed in: 40413.365 seconds
+conMat_GBRLUp_0p5km_compSurvTop50P_20190121.mat completed in: 40200.605 seconds
+conMat_GBRLUp_0p5km_compSurvTop50P_20190128.mat completed in: 38033.9151 seconds
+conMat_GBRLUp_0p5km_compSurvBottom50P_20181201.mat completed in: 26656.2732 seconds
+conMat_GBRLUp_0p5km_compSurvBottom50P_20181207.mat completed in: 27185.862 seconds
+conMat_GBRLUp_0p5km_compSurvBottom50P_20181214.mat completed in: 61844.5726 seconds
+conMat_GBRLUp_0p5km_compSurvBottom50P_20181221.mat completed in: 28647.3588 seconds
+conMat_GBRLUp_0p5km_compSurvBottom50P_20181228.mat completed in: 26882.5429 seconds
+conMat_GBRLUp_0p5km_compSurvBottom50P_20190101.mat completed in: 27433.5572 seconds
+conMat_GBRLUp_0p5km_compSurvBottom50P_20190107.mat completed in: 30726.9569 seconds
+conMat_GBRLUp_0p5km_compSurvBottom50P_20190114.mat completed in: 29354.7333 seconds
+conMat_GBRLUp_0p5km_compSurvBottom50P_20190121.mat completed in: 28265.4932 seconds
+conMat_GBRLUp_0p5km_compSurvBottom50P_20190128.mat completed in: 26691.5263 seconds
+matlab execution successful for: cCM_GBRLUp_0p5km_2018-19
+
+finished job: cCM_GBRLUp_0p5km_2018-19
+
+
+started job: cCM_GBRLUp_0p5km_2019-20
+
+
+                            < M A T L A B (R) >
+                  Copyright 1984-2018 The MathWorks, Inc.
+                   R2018a (9.4.0.813654) 64-bit (glnxa64)
+                             February 23, 2018
+
+ 
+For online documentation, see http://www.mathworks.com/support
+For product information, visit www.mathworks.com.
+ 
+conMat_GBRLUp_0p5km_compSurvAll_20191201.mat completed in: 0.056744 seconds
+conMat_GBRLUp_0p5km_compSurvAll_20191207.mat completed in: 24311.7176 seconds
+conMat_GBRLUp_0p5km_compSurvAll_20191214.mat completed in: 26046.3794 seconds
+conMat_GBRLUp_0p5km_compSurvAll_20191221.mat completed in: 24615.8939 seconds
+conMat_GBRLUp_0p5km_compSurvAll_20191228.mat completed in: 24962.0796 seconds
+conMat_GBRLUp_0p5km_compSurvAll_20200101.mat completed in: 22921.3021 seconds
+conMat_GBRLUp_0p5km_compSurvAll_20200107.mat completed in: 21501.9986 seconds
+conMat_GBRLUp_0p5km_compSurvAll_20200114.mat completed in: 19686.6262 seconds
+conMat_GBRLUp_0p5km_compSurvAll_20200121.mat completed in: 20010.6949 seconds
+conMat_GBRLUp_0p5km_compSurvAll_20200128.mat completed in: 23074.7682 seconds
+conMat_GBRLUp_0p5km_compSurvTop50P_20191201.mat completed in: 9.3253 seconds
+conMat_GBRLUp_0p5km_compSurvTop50P_20191207.mat completed in: 35643.0501 seconds
+conMat_GBRLUp_0p5km_compSurvTop50P_20191214.mat completed in: 35269.5279 seconds
+conMat_GBRLUp_0p5km_compSurvTop50P_20191221.mat completed in: 34515.9157 seconds
+conMat_GBRLUp_0p5km_compSurvTop50P_20191228.mat completed in: 35939.5683 seconds
+conMat_GBRLUp_0p5km_compSurvTop50P_20200101.mat completed in: 34917.4137 seconds
+conMat_GBRLUp_0p5km_compSurvTop50P_20200107.mat completed in: 34021.9053 seconds
+conMat_GBRLUp_0p5km_compSurvTop50P_20200114.mat completed in: 33187.6233 seconds
+conMat_GBRLUp_0p5km_compSurvTop50P_20200121.mat completed in: 30476.9853 seconds
+conMat_GBRLUp_0p5km_compSurvTop50P_20200128.mat completed in: 32671.402 seconds
+conMat_GBRLUp_0p5km_compSurvBottom50P_20191201.mat completed in: 0.1265 seconds
+conMat_GBRLUp_0p5km_compSurvBottom50P_20191207.mat completed in: 20116.7482 seconds
+conMat_GBRLUp_0p5km_compSurvBottom50P_20191214.mat completed in: 20569.6417 seconds
+conMat_GBRLUp_0p5km_compSurvBottom50P_20191221.mat completed in: 19773.8195 seconds
+conMat_GBRLUp_0p5km_compSurvBottom50P_20191228.mat completed in: 20339.1782 seconds
+conMat_GBRLUp_0p5km_compSurvBottom50P_20200101.mat completed in: 18014.7159 seconds
+conMat_GBRLUp_0p5km_compSurvBottom50P_20200107.mat completed in: 17693.295 seconds
+conMat_GBRLUp_0p5km_compSurvBottom50P_20200114.mat completed in: 16670.6203 seconds
+conMat_GBRLUp_0p5km_compSurvBottom50P_20200121.mat completed in: 17191.469 seconds
+conMat_GBRLUp_0p5km_compSurvBottom50P_20200128.mat completed in: 17913.5859 seconds
+
+finished job: cCM_GBRLUp_0p5km_2019-20
+
+
+started job: cCM_GBRLUp_0p5km_2020-21
+
+
+                            < M A T L A B (R) >
+                  Copyright 1984-2018 The MathWorks, Inc.
+                   R2018a (9.4.0.813654) 64-bit (glnxa64)
+                             February 23, 2018
+
+ 
+For online documentation, see http://www.mathworks.com/support
+For product information, visit www.mathworks.com.
+ 
+conMat_GBRLUp_0p5km_compSurvAll_20201201.mat completed in: 0.06069 seconds
+conMat_GBRLUp_0p5km_compSurvAll_20201207.mat completed in: 0.039933 seconds
+conMat_GBRLUp_0p5km_compSurvAll_20201214.mat completed in: 0.039415 seconds
+conMat_GBRLUp_0p5km_compSurvAll_20201221.mat completed in: 0.040324 seconds
+conMat_GBRLUp_0p5km_compSurvAll_20201228.mat completed in: 0.044573 seconds
+conMat_GBRLUp_0p5km_compSurvAll_20210101.mat completed in: 0.039699 seconds
+conMat_GBRLUp_0p5km_compSurvAll_20210107.mat completed in: 0.039916 seconds
+conMat_GBRLUp_0p5km_compSurvAll_20210114.mat completed in: 0.039432 seconds
+conMat_GBRLUp_0p5km_compSurvAll_20210121.mat completed in: 0.039595 seconds
+conMat_GBRLUp_0p5km_compSurvAll_20210128.mat completed in: 0.039304 seconds
+conMat_GBRLUp_0p5km_compSurvTop50P_20201201.mat completed in: 0.84352 seconds
+conMat_GBRLUp_0p5km_compSurvTop50P_20201207.mat completed in: 0.039349 seconds
+conMat_GBRLUp_0p5km_compSurvTop50P_20201214.mat completed in: 0.039776 seconds
+conMat_GBRLUp_0p5km_compSurvTop50P_20201221.mat completed in: 0.038982 seconds
+conMat_GBRLUp_0p5km_compSurvTop50P_20201228.mat completed in: 1.4798 seconds
+conMat_GBRLUp_0p5km_compSurvTop50P_20210101.mat completed in: 0.040073 seconds
+conMat_GBRLUp_0p5km_compSurvTop50P_20210107.mat completed in: 1.5156 seconds
+conMat_GBRLUp_0p5km_compSurvTop50P_20210114.mat completed in: 0.039416 seconds
+conMat_GBRLUp_0p5km_compSurvTop50P_20210121.mat completed in: 0.039872 seconds
+conMat_GBRLUp_0p5km_compSurvTop50P_20210128.mat completed in: 0.05857 seconds
+conMat_GBRLUp_0p5km_compSurvBottom50P_20201201.mat completed in: 0.079076 seconds
+conMat_GBRLUp_0p5km_compSurvBottom50P_20201207.mat completed in: 0.040068 seconds
+conMat_GBRLUp_0p5km_compSurvBottom50P_20201214.mat completed in: 0.039773 seconds
+conMat_GBRLUp_0p5km_compSurvBottom50P_20201221.mat completed in: 0.039525 seconds
+conMat_GBRLUp_0p5km_compSurvBottom50P_20201228.mat completed in: 1.2959 seconds
+conMat_GBRLUp_0p5km_compSurvBottom50P_20210101.mat completed in: 0.039733 seconds
+conMat_GBRLUp_0p5km_compSurvBottom50P_20210107.mat completed in: 0.039772 seconds
+conMat_GBRLUp_0p5km_compSurvBottom50P_20210114.mat completed in: 30777.6314 seconds
+conMat_GBRLUp_0p5km_compSurvBottom50P_20210121.mat completed in: 26482.2272 seconds
+conMat_GBRLUp_0p5km_compSurvBottom50P_20210128.mat completed in: 28249.5515 seconds
+matlab execution successful for: cCM_GBRLUp_0p5km_2020-21
+
+finished job: cCM_GBRLUp_0p5km_2020-21
+
+
+started job: cCM_GBRLUp_0p5km_2021-22
+
+
+                            < M A T L A B (R) >
+                  Copyright 1984-2018 The MathWorks, Inc.
+                   R2018a (9.4.0.813654) 64-bit (glnxa64)
+                             February 23, 2018
+
+ 
+For online documentation, see http://www.mathworks.com/support
+For product information, visit www.mathworks.com.
+ 
+conMat_GBRLUp_0p5km_compSurvAll_20211201.mat completed in: 0.069708 seconds
+conMat_GBRLUp_0p5km_compSurvAll_20211207.mat completed in: 0.046249 seconds
+conMat_GBRLUp_0p5km_compSurvAll_20211214.mat completed in: 0.039468 seconds
+conMat_GBRLUp_0p5km_compSurvAll_20211221.mat completed in: 0.040003 seconds
+conMat_GBRLUp_0p5km_compSurvAll_20211228.mat completed in: 0.043605 seconds
+conMat_GBRLUp_0p5km_compSurvAll_20220101.mat completed in: 0.039517 seconds
+conMat_GBRLUp_0p5km_compSurvAll_20220107.mat completed in: 0.039222 seconds
+conMat_GBRLUp_0p5km_compSurvAll_20220114.mat completed in: 0.051326 seconds
+conMat_GBRLUp_0p5km_compSurvAll_20220121.mat completed in: 0.039297 seconds
+conMat_GBRLUp_0p5km_compSurvAll_20220128.mat completed in: 0.039337 seconds
+conMat_GBRLUp_0p5km_compSurvTop50P_20211201.mat completed in: 0.077395 seconds
+conMat_GBRLUp_0p5km_compSurvTop50P_20211207.mat completed in: 0.038832 seconds
+conMat_GBRLUp_0p5km_compSurvTop50P_20211214.mat completed in: 0.03934 seconds
+conMat_GBRLUp_0p5km_compSurvTop50P_20211221.mat completed in: 0.039359 seconds
+conMat_GBRLUp_0p5km_compSurvTop50P_20211228.mat completed in: 0.039534 seconds
+conMat_GBRLUp_0p5km_compSurvTop50P_20220101.mat completed in: 0.046224 seconds
+conMat_GBRLUp_0p5km_compSurvTop50P_20220107.mat completed in: 0.050208 seconds
+conMat_GBRLUp_0p5km_compSurvTop50P_20220114.mat completed in: 0.038803 seconds
+conMat_GBRLUp_0p5km_compSurvTop50P_20220121.mat completed in: 0.038896 seconds
+conMat_GBRLUp_0p5km_compSurvTop50P_20220128.mat completed in: 0.03903 seconds
+conMat_GBRLUp_0p5km_compSurvBottom50P_20211201.mat completed in: 0.065636 seconds
+conMat_GBRLUp_0p5km_compSurvBottom50P_20211207.mat completed in: 0.044829 seconds
+conMat_GBRLUp_0p5km_compSurvBottom50P_20211214.mat completed in: 0.039451 seconds
+conMat_GBRLUp_0p5km_compSurvBottom50P_20211221.mat completed in: 0.057075 seconds
+conMat_GBRLUp_0p5km_compSurvBottom50P_20211228.mat completed in: 0.046335 seconds
+conMat_GBRLUp_0p5km_compSurvBottom50P_20220101.mat completed in: 28549.5608 seconds
+conMat_GBRLUp_0p5km_compSurvBottom50P_20220107.mat completed in: 31369.9849 seconds
+conMat_GBRLUp_0p5km_compSurvBottom50P_20220114.mat completed in: 28217.9281 seconds
+conMat_GBRLUp_0p5km_compSurvBottom50P_20220121.mat completed in: 26627.8641 seconds
+conMat_GBRLUp_0p5km_compSurvBottom50P_20220128.mat completed in: 25131.1657 seconds
+matlab execution successful for: cCM_GBRLUp_0p5km_2021-22
+
+finished job: cCM_GBRLUp_0p5km_2021-22
+
+
+started job: cCM_GBRLUp_0p5km_2022-23
+
+
+                            < M A T L A B (R) >
+                  Copyright 1984-2018 The MathWorks, Inc.
+                   R2018a (9.4.0.813654) 64-bit (glnxa64)
+                             February 23, 2018
+
+ 
+For online documentation, see http://www.mathworks.com/support
+For product information, visit www.mathworks.com.
+ 
+conMat_GBRLUp_0p5km_compSurvAll_20221201.mat completed in: 0.056451 seconds
+conMat_GBRLUp_0p5km_compSurvAll_20221207.mat completed in: 0.040576 seconds
+conMat_GBRLUp_0p5km_compSurvAll_20221214.mat completed in: 0.040677 seconds
+conMat_GBRLUp_0p5km_compSurvAll_20221221.mat completed in: 0.040219 seconds
+conMat_GBRLUp_0p5km_compSurvAll_20221228.mat completed in: 0.043308 seconds
+conMat_GBRLUp_0p5km_compSurvAll_20230101.mat completed in: 0.040514 seconds
+conMat_GBRLUp_0p5km_compSurvAll_20230107.mat completed in: 0.040298 seconds
+conMat_GBRLUp_0p5km_compSurvAll_20230114.mat completed in: 0.040266 seconds
+conMat_GBRLUp_0p5km_compSurvAll_20230121.mat completed in: 0.040125 seconds
+conMat_GBRLUp_0p5km_compSurvAll_20230128.mat completed in: 0.040546 seconds
+conMat_GBRLUp_0p5km_compSurvTop50P_20221201.mat completed in: 0.043014 seconds
+conMat_GBRLUp_0p5km_compSurvTop50P_20221207.mat completed in: 0.03954 seconds
+conMat_GBRLUp_0p5km_compSurvTop50P_20221214.mat completed in: 0.040155 seconds
+conMat_GBRLUp_0p5km_compSurvTop50P_20221221.mat completed in: 0.040085 seconds
+conMat_GBRLUp_0p5km_compSurvTop50P_20221228.mat completed in: 0.040148 seconds
+conMat_GBRLUp_0p5km_compSurvTop50P_20230101.mat completed in: 0.039809 seconds
+conMat_GBRLUp_0p5km_compSurvTop50P_20230107.mat completed in: 0.040323 seconds
+conMat_GBRLUp_0p5km_compSurvTop50P_20230114.mat completed in: 0.040813 seconds
+conMat_GBRLUp_0p5km_compSurvTop50P_20230121.mat completed in: 39716.7066 seconds
+conMat_GBRLUp_0p5km_compSurvTop50P_20230128.mat completed in: 39202.8893 seconds
+conMat_GBRLUp_0p5km_compSurvBottom50P_20221201.mat completed in: 26843.8221 seconds
+conMat_GBRLUp_0p5km_compSurvBottom50P_20221207.mat completed in: 26088.3343 seconds
+conMat_GBRLUp_0p5km_compSurvBottom50P_20221214.mat completed in: 25832.9721 seconds
+conMat_GBRLUp_0p5km_compSurvBottom50P_20221221.mat completed in: 24643.7347 seconds
+conMat_GBRLUp_0p5km_compSurvBottom50P_20221228.mat completed in: 23379.7696 seconds
+conMat_GBRLUp_0p5km_compSurvBottom50P_20230101.mat completed in: 23756.609 seconds
+conMat_GBRLUp_0p5km_compSurvBottom50P_20230107.mat completed in: 25545.4859 seconds
+conMat_GBRLUp_0p5km_compSurvBottom50P_20230114.mat completed in: 26709.291 seconds
+conMat_GBRLUp_0p5km_compSurvBottom50P_20230121.mat completed in: 25794.1235 seconds
+conMat_GBRLUp_0p5km_compSurvBottom50P_20230128.mat completed in: 25131.1187 seconds
+matlab execution successful for: cCM_GBRLUp_0p5km_2022-23
+
+finished job: cCM_GBRLUp_0p5km_2022-23
+
+
+started job: cCM_GBRLUp_1km_2018-19
+
+
+                            < M A T L A B (R) >
+                  Copyright 1984-2018 The MathWorks, Inc.
+                   R2018a (9.4.0.813654) 64-bit (glnxa64)
+                             February 23, 2018
+
+ 
+For online documentation, see http://www.mathworks.com/support
+For product information, visit www.mathworks.com.
+ 
+conMat_GBRLUp_1km_compSurvAll_20181201.mat completed in: 0.10324 seconds
+conMat_GBRLUp_1km_compSurvAll_20181207.mat completed in: 0.15659 seconds
+conMat_GBRLUp_1km_compSurvAll_20181214.mat completed in: 0.15733 seconds
+conMat_GBRLUp_1km_compSurvAll_20181221.mat completed in: 0.15702 seconds
+conMat_GBRLUp_1km_compSurvAll_20181228.mat completed in: 0.15356 seconds
+conMat_GBRLUp_1km_compSurvAll_20190101.mat completed in: 0.15661 seconds
+conMat_GBRLUp_1km_compSurvAll_20190107.mat completed in: 0.15637 seconds
+conMat_GBRLUp_1km_compSurvAll_20190114.mat completed in: 0.15822 seconds
+conMat_GBRLUp_1km_compSurvAll_20190121.mat completed in: 0.15754 seconds
+conMat_GBRLUp_1km_compSurvAll_20190128.mat completed in: 0.15792 seconds
+conMat_GBRLUp_1km_compSurvTop50P_20181201.mat completed in: 0.042999 seconds
+conMat_GBRLUp_1km_compSurvTop50P_20181207.mat completed in: 0.1168 seconds
+conMat_GBRLUp_1km_compSurvTop50P_20181214.mat completed in: 0.15716 seconds
+conMat_GBRLUp_1km_compSurvTop50P_20181221.mat completed in: 0.1572 seconds
+conMat_GBRLUp_1km_compSurvTop50P_20181228.mat completed in: 0.1185 seconds
+conMat_GBRLUp_1km_compSurvTop50P_20190101.mat completed in: 0.11675 seconds
+conMat_GBRLUp_1km_compSurvTop50P_20190107.mat completed in: 0.11778 seconds
+conMat_GBRLUp_1km_compSurvTop50P_20190114.mat completed in: 0.079312 seconds
+conMat_GBRLUp_1km_compSurvTop50P_20190121.mat completed in: 0.078334 seconds
+conMat_GBRLUp_1km_compSurvTop50P_20190128.mat completed in: 0.077806 seconds
+conMat_GBRLUp_1km_compSurvBottom50P_20181201.mat completed in: 0.12578 seconds
+conMat_GBRLUp_1km_compSurvBottom50P_20181207.mat completed in: 0.077123 seconds
+conMat_GBRLUp_1km_compSurvBottom50P_20181214.mat completed in: 0.078105 seconds
+conMat_GBRLUp_1km_compSurvBottom50P_20181221.mat completed in: 0.077607 seconds
+conMat_GBRLUp_1km_compSurvBottom50P_20181228.mat completed in: 0.077633 seconds
+conMat_GBRLUp_1km_compSurvBottom50P_20190101.mat completed in: 0.077368 seconds
+conMat_GBRLUp_1km_compSurvBottom50P_20190107.mat completed in: 0.040307 seconds
+conMat_GBRLUp_1km_compSurvBottom50P_20190114.mat completed in: 0.041223 seconds
+conMat_GBRLUp_1km_compSurvBottom50P_20190121.mat completed in: 53439.9332 seconds
+conMat_GBRLUp_1km_compSurvBottom50P_20190128.mat completed in: 36398.843 seconds
+matlab execution successful for: cCM_GBRLUp_1km_2018-19
+
+finished job: cCM_GBRLUp_1km_2018-19
+
+
+started job: cCM_GBRLUp_1km_2019-20
+
+
+                            < M A T L A B (R) >
+                  Copyright 1984-2018 The MathWorks, Inc.
+                   R2018a (9.4.0.813654) 64-bit (glnxa64)
+                             February 23, 2018
+
+ 
+For online documentation, see http://www.mathworks.com/support
+For product information, visit www.mathworks.com.
+ 
+conMat_GBRLUp_1km_compSurvAll_20191201.mat completed in: 0.048414 seconds
+conMat_GBRLUp_1km_compSurvAll_20191207.mat completed in: 0.040778 seconds
+conMat_GBRLUp_1km_compSurvAll_20191214.mat completed in: 0.040577 seconds
+conMat_GBRLUp_1km_compSurvAll_20191221.mat completed in: 0.040482 seconds
+conMat_GBRLUp_1km_compSurvAll_20191228.mat completed in: 0.042967 seconds
+conMat_GBRLUp_1km_compSurvAll_20200101.mat completed in: 0.040556 seconds
+conMat_GBRLUp_1km_compSurvAll_20200107.mat completed in: 0.039884 seconds
+conMat_GBRLUp_1km_compSurvAll_20200114.mat completed in: 28818.7748 seconds
+conMat_GBRLUp_1km_compSurvAll_20200121.mat completed in: 31062.4384 seconds
+conMat_GBRLUp_1km_compSurvAll_20200128.mat completed in: 32224.2408 seconds
+conMat_GBRLUp_1km_compSurvTop50P_20191201.mat completed in: 0.13862 seconds
+conMat_GBRLUp_1km_compSurvTop50P_20191207.mat completed in: 48131.6343 seconds
+conMat_GBRLUp_1km_compSurvTop50P_20191214.mat completed in: 50314.7057 seconds
+conMat_GBRLUp_1km_compSurvTop50P_20191221.mat completed in: 51016.016 seconds
+conMat_GBRLUp_1km_compSurvTop50P_20191228.mat completed in: 49963.3297 seconds
+conMat_GBRLUp_1km_compSurvTop50P_20200101.mat completed in: 47933.1674 seconds
+conMat_GBRLUp_1km_compSurvTop50P_20200107.mat completed in: 46137.4993 seconds
+conMat_GBRLUp_1km_compSurvTop50P_20200114.mat completed in: 44450.6301 seconds
+conMat_GBRLUp_1km_compSurvTop50P_20200121.mat completed in: 83314.4158 seconds
+conMat_GBRLUp_1km_compSurvTop50P_20200128.mat completed in: 48170.6434 seconds
+conMat_GBRLUp_1km_compSurvBottom50P_20191201.mat completed in: 0.18977 seconds
+conMat_GBRLUp_1km_compSurvBottom50P_20191207.mat completed in: 34407.3748 seconds
+conMat_GBRLUp_1km_compSurvBottom50P_20191214.mat completed in: 34010.7451 seconds
+conMat_GBRLUp_1km_compSurvBottom50P_20191221.mat completed in: 32994.7515 seconds
+conMat_GBRLUp_1km_compSurvBottom50P_20191228.mat completed in: 32375.5516 seconds
+conMat_GBRLUp_1km_compSurvBottom50P_20200101.mat completed in: 31351.9517 seconds
+conMat_GBRLUp_1km_compSurvBottom50P_20200107.mat completed in: 30921.4731 seconds
+conMat_GBRLUp_1km_compSurvBottom50P_20200114.mat completed in: 31019.4251 seconds
+conMat_GBRLUp_1km_compSurvBottom50P_20200121.mat completed in: 30816.5229 seconds
+conMat_GBRLUp_1km_compSurvBottom50P_20200128.mat completed in: 31772.6036 seconds
+matlab execution successful for: cCM_GBRLUp_1km_2019-20
+
+finished job: cCM_GBRLUp_1km_2019-20
+
+
+started job: cCM_GBRLUp_1km_2020-21
+
+
+                            < M A T L A B (R) >
+                  Copyright 1984-2018 The MathWorks, Inc.
+                   R2018a (9.4.0.813654) 64-bit (glnxa64)
+                             February 23, 2018
+
+ 
+For online documentation, see http://www.mathworks.com/support
+For product information, visit www.mathworks.com.
+ 
+conMat_GBRLUp_1km_compSurvAll_20201201.mat completed in: 0.28393 seconds
+conMat_GBRLUp_1km_compSurvAll_20201207.mat completed in: 0.15695 seconds
+conMat_GBRLUp_1km_compSurvAll_20201214.mat completed in: 0.15679 seconds
+conMat_GBRLUp_1km_compSurvAll_20201221.mat completed in: 0.15732 seconds
+conMat_GBRLUp_1km_compSurvAll_20201228.mat completed in: 0.15443 seconds
+conMat_GBRLUp_1km_compSurvAll_20210101.mat completed in: 0.15539 seconds
+conMat_GBRLUp_1km_compSurvAll_20210107.mat completed in: 0.15731 seconds
+conMat_GBRLUp_1km_compSurvAll_20210114.mat completed in: 0.15776 seconds
+conMat_GBRLUp_1km_compSurvAll_20210121.mat completed in: 0.15794 seconds
+conMat_GBRLUp_1km_compSurvAll_20210128.mat completed in: 0.15763 seconds
+conMat_GBRLUp_1km_compSurvTop50P_20201201.mat completed in: 0.12045 seconds
+conMat_GBRLUp_1km_compSurvTop50P_20201207.mat completed in: 0.15725 seconds
+conMat_GBRLUp_1km_compSurvTop50P_20201214.mat completed in: 0.15775 seconds
+conMat_GBRLUp_1km_compSurvTop50P_20201221.mat completed in: 0.11794 seconds
+conMat_GBRLUp_1km_compSurvTop50P_20201228.mat completed in: 0.11679 seconds
+conMat_GBRLUp_1km_compSurvTop50P_20210101.mat completed in: 77723.2996 seconds
+conMat_GBRLUp_1km_compSurvTop50P_20210107.mat completed in: 56175.8384 seconds
+conMat_GBRLUp_1km_compSurvTop50P_20210114.mat completed in: 69030.2415 seconds
+conMat_GBRLUp_1km_compSurvTop50P_20210121.mat completed in: 69513.7443 seconds
+conMat_GBRLUp_1km_compSurvTop50P_20210128.mat completed in: 78306.4631 seconds
+conMat_GBRLUp_1km_compSurvBottom50P_20201201.mat completed in: 34826.385 seconds
+conMat_GBRLUp_1km_compSurvBottom50P_20201207.mat completed in: 30421.9344 seconds
+conMat_GBRLUp_1km_compSurvBottom50P_20201214.mat completed in: 48295.7038 seconds
+conMat_GBRLUp_1km_compSurvBottom50P_20201221.mat completed in: 32658.7865 seconds
+conMat_GBRLUp_1km_compSurvBottom50P_20201228.mat completed in: 29934.571 seconds
+conMat_GBRLUp_1km_compSurvBottom50P_20210101.mat completed in: 29930.3918 seconds
+conMat_GBRLUp_1km_compSurvBottom50P_20210107.mat completed in: 29740.8004 seconds
+conMat_GBRLUp_1km_compSurvBottom50P_20210114.mat completed in: 29889.9284 seconds
+conMat_GBRLUp_1km_compSurvBottom50P_20210121.mat completed in: 28002.3957 seconds
+conMat_GBRLUp_1km_compSurvBottom50P_20210128.mat completed in: 50182.86 seconds
+matlab execution successful for: cCM_GBRLUp_1km_2020-21
+
+finished job: cCM_GBRLUp_1km_2020-21
+
+
+started job: cCM_GBRLUp_1km_2021-22
+
+
+                            < M A T L A B (R) >
+                  Copyright 1984-2018 The MathWorks, Inc.
+                   R2018a (9.4.0.813654) 64-bit (glnxa64)
+                             February 23, 2018
+
+ 
+For online documentation, see http://www.mathworks.com/support
+For product information, visit www.mathworks.com.
+ 
+conMat_GBRLUp_1km_compSurvAll_20211201.mat completed in: 0.1248 seconds
+conMat_GBRLUp_1km_compSurvAll_20211207.mat completed in: 0.15678 seconds
+conMat_GBRLUp_1km_compSurvAll_20211214.mat completed in: 0.15741 seconds
+conMat_GBRLUp_1km_compSurvAll_20211221.mat completed in: 0.15693 seconds
+conMat_GBRLUp_1km_compSurvAll_20211228.mat completed in: 0.15395 seconds
+conMat_GBRLUp_1km_compSurvAll_20220101.mat completed in: 0.1575 seconds
+conMat_GBRLUp_1km_compSurvAll_20220107.mat completed in: 0.15599 seconds
+conMat_GBRLUp_1km_compSurvAll_20220114.mat completed in: 0.15795 seconds
+conMat_GBRLUp_1km_compSurvAll_20220121.mat completed in: 0.15762 seconds
+conMat_GBRLUp_1km_compSurvAll_20220128.mat completed in: 0.15764 seconds
+conMat_GBRLUp_1km_compSurvTop50P_20211201.mat completed in: 0.1219 seconds
+conMat_GBRLUp_1km_compSurvTop50P_20211207.mat completed in: 0.15671 seconds
+conMat_GBRLUp_1km_compSurvTop50P_20211214.mat completed in: 0.15675 seconds
+conMat_GBRLUp_1km_compSurvTop50P_20211221.mat completed in: 0.15779 seconds
+conMat_GBRLUp_1km_compSurvTop50P_20211228.mat completed in: 0.11798 seconds
+conMat_GBRLUp_1km_compSurvTop50P_20220101.mat completed in: 0.11705 seconds
+conMat_GBRLUp_1km_compSurvTop50P_20220107.mat completed in: 0.07927 seconds
+conMat_GBRLUp_1km_compSurvTop50P_20220114.mat completed in: 0.078882 seconds
+conMat_GBRLUp_1km_compSurvTop50P_20220121.mat completed in: 0.078337 seconds
+conMat_GBRLUp_1km_compSurvTop50P_20220128.mat completed in: 0.077854 seconds
+conMat_GBRLUp_1km_compSurvBottom50P_20211201.mat completed in: 0.046723 seconds
+conMat_GBRLUp_1km_compSurvBottom50P_20211207.mat completed in: 0.078397 seconds
+conMat_GBRLUp_1km_compSurvBottom50P_20211214.mat completed in: 0.077613 seconds
+conMat_GBRLUp_1km_compSurvBottom50P_20211221.mat completed in: 0.078321 seconds
+conMat_GBRLUp_1km_compSurvBottom50P_20211228.mat completed in: 0.077521 seconds
+conMat_GBRLUp_1km_compSurvBottom50P_20220101.mat completed in: 0.077293 seconds
+conMat_GBRLUp_1km_compSurvBottom50P_20220107.mat completed in: 60367.9343 seconds
+conMat_GBRLUp_1km_compSurvBottom50P_20220114.mat completed in: 39518.7085 seconds
+conMat_GBRLUp_1km_compSurvBottom50P_20220121.mat completed in: 38189.0342 seconds
+conMat_GBRLUp_1km_compSurvBottom50P_20220128.mat completed in: 53843.1343 seconds
+matlab execution successful for: cCM_GBRLUp_1km_2021-22
+
+finished job: cCM_GBRLUp_1km_2021-22
+
+
+started job: cCM_GBRLUp_1km_2022-23
+
+
+                            < M A T L A B (R) >
+                  Copyright 1984-2018 The MathWorks, Inc.
+                   R2018a (9.4.0.813654) 64-bit (glnxa64)
+                             February 23, 2018
+
+ 
+For online documentation, see http://www.mathworks.com/support
+For product information, visit www.mathworks.com.
+ 
+conMat_GBRLUp_1km_compSurvAll_20221201.mat completed in: 0.1466 seconds
+conMat_GBRLUp_1km_compSurvAll_20221207.mat completed in: 0.15665 seconds
+conMat_GBRLUp_1km_compSurvAll_20221214.mat completed in: 0.15748 seconds
+conMat_GBRLUp_1km_compSurvAll_20221221.mat completed in: 0.15692 seconds
+conMat_GBRLUp_1km_compSurvAll_20221228.mat completed in: 0.15426 seconds
+conMat_GBRLUp_1km_compSurvAll_20230101.mat completed in: 0.15603 seconds
+conMat_GBRLUp_1km_compSurvAll_20230107.mat completed in: 0.15684 seconds
+conMat_GBRLUp_1km_compSurvAll_20230114.mat completed in: 0.15796 seconds
+conMat_GBRLUp_1km_compSurvAll_20230121.mat completed in: 0.15742 seconds
+conMat_GBRLUp_1km_compSurvAll_20230128.mat completed in: 0.15796 seconds
+conMat_GBRLUp_1km_compSurvTop50P_20221201.mat completed in: 0.082015 seconds
+conMat_GBRLUp_1km_compSurvTop50P_20221207.mat completed in: 0.15704 seconds
+conMat_GBRLUp_1km_compSurvTop50P_20221214.mat completed in: 0.15682 seconds
+conMat_GBRLUp_1km_compSurvTop50P_20221221.mat completed in: 75512.6458 seconds
+conMat_GBRLUp_1km_compSurvTop50P_20221228.mat completed in: 56046.0855 seconds
+conMat_GBRLUp_1km_compSurvTop50P_20230101.mat completed in: 68220.6679 seconds
+conMat_GBRLUp_1km_compSurvTop50P_20230107.mat completed in: 75144.9016 seconds
+conMat_GBRLUp_1km_compSurvTop50P_20230114.mat completed in: 79950.5074 seconds
+conMat_GBRLUp_1km_compSurvTop50P_20230121.mat completed in: 52063.2602 seconds
+conMat_GBRLUp_1km_compSurvTop50P_20230128.mat completed in: 65791.9746 seconds
+conMat_GBRLUp_1km_compSurvBottom50P_20221201.mat completed in: 36233.524 seconds
+conMat_GBRLUp_1km_compSurvBottom50P_20221207.mat completed in: 29182.7778 seconds
+conMat_GBRLUp_1km_compSurvBottom50P_20221214.mat completed in: 32787.997 seconds
+conMat_GBRLUp_1km_compSurvBottom50P_20221221.mat completed in: 30158.2871 seconds
+conMat_GBRLUp_1km_compSurvBottom50P_20221228.mat completed in: 25698.0989 seconds
+conMat_GBRLUp_1km_compSurvBottom50P_20230101.mat completed in: 37709.2264 seconds
+conMat_GBRLUp_1km_compSurvBottom50P_20230107.mat completed in: 56529.7316 seconds
+conMat_GBRLUp_1km_compSurvBottom50P_20230114.mat completed in: 49328.3638 seconds
+conMat_GBRLUp_1km_compSurvBottom50P_20230121.mat completed in: 55767.0169 seconds
+=>> PBS: job killed: walltime 864035 exceeded limit 864000
+
+started job: cCM_GBRLUp_1p5km_2018-19
+
+
+                            < M A T L A B (R) >
+                  Copyright 1984-2018 The MathWorks, Inc.
+                   R2018a (9.4.0.813654) 64-bit (glnxa64)
+                             February 23, 2018
+
+ 
+For online documentation, see http://www.mathworks.com/support
+For product information, visit www.mathworks.com.
+ 
+conMat_GBRLUp_1p5km_compSurvAll_20181201.mat completed in: 0.086514 seconds
+conMat_GBRLUp_1p5km_compSurvAll_20181207.mat completed in: 0.039476 seconds
+conMat_GBRLUp_1p5km_compSurvAll_20181214.mat completed in: 0.039348 seconds
+conMat_GBRLUp_1p5km_compSurvAll_20181221.mat completed in: 0.039508 seconds
+conMat_GBRLUp_1p5km_compSurvAll_20181228.mat completed in: 0.042665 seconds
+conMat_GBRLUp_1p5km_compSurvAll_20190101.mat completed in: 0.039702 seconds
+conMat_GBRLUp_1p5km_compSurvAll_20190107.mat completed in: 0.038962 seconds
+conMat_GBRLUp_1p5km_compSurvAll_20190114.mat completed in: 0.039014 seconds
+conMat_GBRLUp_1p5km_compSurvAll_20190121.mat completed in: 0.038998 seconds
+conMat_GBRLUp_1p5km_compSurvAll_20190128.mat completed in: 0.038686 seconds
+conMat_GBRLUp_1p5km_compSurvTop50P_20181201.mat completed in: 0.042202 seconds
+conMat_GBRLUp_1p5km_compSurvTop50P_20181207.mat completed in: 0.038901 seconds
+conMat_GBRLUp_1p5km_compSurvTop50P_20181214.mat completed in: 0.039441 seconds
+conMat_GBRLUp_1p5km_compSurvTop50P_20181221.mat completed in: 0.039312 seconds
+conMat_GBRLUp_1p5km_compSurvTop50P_20181228.mat completed in: 0.039163 seconds
+conMat_GBRLUp_1p5km_compSurvTop50P_20190101.mat completed in: 0.038932 seconds
+conMat_GBRLUp_1p5km_compSurvTop50P_20190107.mat completed in: 0.039063 seconds
+conMat_GBRLUp_1p5km_compSurvTop50P_20190114.mat completed in: 0.038889 seconds
+conMat_GBRLUp_1p5km_compSurvTop50P_20190121.mat completed in: 0.039126 seconds
+conMat_GBRLUp_1p5km_compSurvTop50P_20190128.mat completed in: 0.039298 seconds
+conMat_GBRLUp_1p5km_compSurvBottom50P_20181201.mat completed in: 0.041039 seconds
+conMat_GBRLUp_1p5km_compSurvBottom50P_20181207.mat completed in: 39156.7219 seconds
+conMat_GBRLUp_1p5km_compSurvBottom50P_20181214.mat completed in: 41188.3774 seconds
+conMat_GBRLUp_1p5km_compSurvBottom50P_20181221.mat completed in: 40215.7444 seconds
+conMat_GBRLUp_1p5km_compSurvBottom50P_20181228.mat completed in: 36838.4977 seconds
+conMat_GBRLUp_1p5km_compSurvBottom50P_20190101.mat completed in: 38758.0726 seconds
+conMat_GBRLUp_1p5km_compSurvBottom50P_20190107.mat completed in: 39600.0285 seconds
+conMat_GBRLUp_1p5km_compSurvBottom50P_20190114.mat completed in: 39536.2729 seconds
+conMat_GBRLUp_1p5km_compSurvBottom50P_20190121.mat completed in: 38453.7232 seconds
+conMat_GBRLUp_1p5km_compSurvBottom50P_20190128.mat completed in: 37448.1325 seconds
+matlab execution successful for: cCM_GBRLUp_1p5km_2018-19
+
+finished job: cCM_GBRLUp_1p5km_2018-19
+
+
+started job: cCM_GBRLUp_1p5km_2019-20
+
+
+                            < M A T L A B (R) >
+                  Copyright 1984-2018 The MathWorks, Inc.
+                   R2018a (9.4.0.813654) 64-bit (glnxa64)
+                             February 23, 2018
+
+ 
+For online documentation, see http://www.mathworks.com/support
+For product information, visit www.mathworks.com.
+ 
+conMat_GBRLUp_1p5km_compSurvAll_20191201.mat completed in: 0.22977 seconds
+conMat_GBRLUp_1p5km_compSurvAll_20191207.mat completed in: 0.061618 seconds
+conMat_GBRLUp_1p5km_compSurvAll_20191214.mat completed in: 0.04279 seconds
+conMat_GBRLUp_1p5km_compSurvAll_20191221.mat completed in: 0.04182 seconds
+conMat_GBRLUp_1p5km_compSurvAll_20191228.mat completed in: 0.04641 seconds
+conMat_GBRLUp_1p5km_compSurvAll_20200101.mat completed in: 0.041712 seconds
+conMat_GBRLUp_1p5km_compSurvAll_20200107.mat completed in: 0.041343 seconds
+conMat_GBRLUp_1p5km_compSurvAll_20200114.mat completed in: 0.040279 seconds
+conMat_GBRLUp_1p5km_compSurvAll_20200121.mat completed in: 0.041768 seconds
+conMat_GBRLUp_1p5km_compSurvAll_20200128.mat completed in: 0.041155 seconds
+conMat_GBRLUp_1p5km_compSurvTop50P_20191201.mat completed in: 0.04835 seconds
+conMat_GBRLUp_1p5km_compSurvTop50P_20191207.mat completed in: 0.041807 seconds
+conMat_GBRLUp_1p5km_compSurvTop50P_20191214.mat completed in: 0.040877 seconds
+conMat_GBRLUp_1p5km_compSurvTop50P_20191221.mat completed in: 0.041019 seconds
+conMat_GBRLUp_1p5km_compSurvTop50P_20191228.mat completed in: 0.042462 seconds
+conMat_GBRLUp_1p5km_compSurvTop50P_20200101.mat completed in: 0.041748 seconds
+conMat_GBRLUp_1p5km_compSurvTop50P_20200107.mat completed in: 0.040933 seconds
+conMat_GBRLUp_1p5km_compSurvTop50P_20200114.mat completed in: 0.040851 seconds
+conMat_GBRLUp_1p5km_compSurvTop50P_20200121.mat completed in: 0.041029 seconds
+conMat_GBRLUp_1p5km_compSurvTop50P_20200128.mat completed in: 0.040513 seconds
+conMat_GBRLUp_1p5km_compSurvBottom50P_20191201.mat completed in: 0.083718 seconds
+conMat_GBRLUp_1p5km_compSurvBottom50P_20191207.mat completed in: 0.041274 seconds
+conMat_GBRLUp_1p5km_compSurvBottom50P_20191214.mat completed in: 0.041367 seconds
+conMat_GBRLUp_1p5km_compSurvBottom50P_20191221.mat completed in: 0.041303 seconds
+conMat_GBRLUp_1p5km_compSurvBottom50P_20191228.mat completed in: 0.041902 seconds
+conMat_GBRLUp_1p5km_compSurvBottom50P_20200101.mat completed in: 64650.0627 seconds
+conMat_GBRLUp_1p5km_compSurvBottom50P_20200107.mat completed in: 43404.8116 seconds
+conMat_GBRLUp_1p5km_compSurvBottom50P_20200114.mat completed in: 34086.3044 seconds
+conMat_GBRLUp_1p5km_compSurvBottom50P_20200121.mat completed in: 39217.6016 seconds
+conMat_GBRLUp_1p5km_compSurvBottom50P_20200128.mat completed in: 48031.2124 seconds
+matlab execution successful for: cCM_GBRLUp_1p5km_2019-20
+
+finished job: cCM_GBRLUp_1p5km_2019-20
+
+
+started job: cCM_GBRLUp_1p5km_2020-21
+
+
+                            < M A T L A B (R) >
+                  Copyright 1984-2018 The MathWorks, Inc.
+                   R2018a (9.4.0.813654) 64-bit (glnxa64)
+                             February 23, 2018
+
+ 
+For online documentation, see http://www.mathworks.com/support
+For product information, visit www.mathworks.com.
+ 
+conMat_GBRLUp_1p5km_compSurvAll_20201201.mat completed in: 0.15712 seconds
+conMat_GBRLUp_1p5km_compSurvAll_20201207.mat completed in: 0.040433 seconds
+conMat_GBRLUp_1p5km_compSurvAll_20201214.mat completed in: 0.040577 seconds
+conMat_GBRLUp_1p5km_compSurvAll_20201221.mat completed in: 0.04101 seconds
+conMat_GBRLUp_1p5km_compSurvAll_20201228.mat completed in: 0.043235 seconds
+conMat_GBRLUp_1p5km_compSurvAll_20210101.mat completed in: 0.040396 seconds
+conMat_GBRLUp_1p5km_compSurvAll_20210107.mat completed in: 0.040205 seconds
+conMat_GBRLUp_1p5km_compSurvAll_20210114.mat completed in: 0.04044 seconds
+conMat_GBRLUp_1p5km_compSurvAll_20210121.mat completed in: 0.040853 seconds
+conMat_GBRLUp_1p5km_compSurvAll_20210128.mat completed in: 0.04068 seconds
+conMat_GBRLUp_1p5km_compSurvTop50P_20201201.mat completed in: 55259.4793 seconds
+conMat_GBRLUp_1p5km_compSurvTop50P_20201207.mat completed in: 57841.2271 seconds
+conMat_GBRLUp_1p5km_compSurvTop50P_20201214.mat completed in: 54801.3188 seconds
+conMat_GBRLUp_1p5km_compSurvTop50P_20201221.mat completed in: 56101.7476 seconds
+conMat_GBRLUp_1p5km_compSurvTop50P_20201228.mat completed in: 54952.3357 seconds
+conMat_GBRLUp_1p5km_compSurvTop50P_20210101.mat completed in: 51031.2835 seconds
+conMat_GBRLUp_1p5km_compSurvTop50P_20210107.mat completed in: 52488.2455 seconds
+conMat_GBRLUp_1p5km_compSurvTop50P_20210114.mat completed in: 49370.5826 seconds
+conMat_GBRLUp_1p5km_compSurvTop50P_20210121.mat completed in: 48057.1096 seconds
+conMat_GBRLUp_1p5km_compSurvTop50P_20210128.mat completed in: 51413.6996 seconds
+conMat_GBRLUp_1p5km_compSurvBottom50P_20201201.mat completed in: 38694.6448 seconds
+conMat_GBRLUp_1p5km_compSurvBottom50P_20201207.mat completed in: 38276.7164 seconds
+conMat_GBRLUp_1p5km_compSurvBottom50P_20201214.mat completed in: 36455.7129 seconds
+conMat_GBRLUp_1p5km_compSurvBottom50P_20201221.mat completed in: 37845.0596 seconds
+conMat_GBRLUp_1p5km_compSurvBottom50P_20201228.mat completed in: 38136.3298 seconds
+conMat_GBRLUp_1p5km_compSurvBottom50P_20210101.mat completed in: 36326.1765 seconds
+conMat_GBRLUp_1p5km_compSurvBottom50P_20210107.mat completed in: 34418.7831 seconds
+conMat_GBRLUp_1p5km_compSurvBottom50P_20210114.mat completed in: 36033.8976 seconds
+conMat_GBRLUp_1p5km_compSurvBottom50P_20210121.mat completed in: 34411.8563 seconds
+=>> PBS: job killed: walltime 864011 exceeded limit 864000
+
+started job: cCM_GBRLUp_1p5km_2021-22
+
+
+                            < M A T L A B (R) >
+                  Copyright 1984-2018 The MathWorks, Inc.
+                   R2018a (9.4.0.813654) 64-bit (glnxa64)
+                             February 23, 2018
+
+ 
+For online documentation, see http://www.mathworks.com/support
+For product information, visit www.mathworks.com.
+ 
+conMat_GBRLUp_1p5km_compSurvAll_20211201.mat completed in: 0.084713 seconds
+conMat_GBRLUp_1p5km_compSurvAll_20211207.mat completed in: 0.040358 seconds
+conMat_GBRLUp_1p5km_compSurvAll_20211214.mat completed in: 0.040382 seconds
+conMat_GBRLUp_1p5km_compSurvAll_20211221.mat completed in: 0.040986 seconds
+conMat_GBRLUp_1p5km_compSurvAll_20211228.mat completed in: 0.04342 seconds
+conMat_GBRLUp_1p5km_compSurvAll_20220101.mat completed in: 0.04102 seconds
+conMat_GBRLUp_1p5km_compSurvAll_20220107.mat completed in: 41371.4164 seconds
+conMat_GBRLUp_1p5km_compSurvAll_20220114.mat completed in: 41358.4574 seconds
+conMat_GBRLUp_1p5km_compSurvAll_20220121.mat completed in: 39587.1282 seconds
+conMat_GBRLUp_1p5km_compSurvAll_20220128.mat completed in: 40510.9141 seconds
+conMat_GBRLUp_1p5km_compSurvTop50P_20211201.mat completed in: 61260.8843 seconds
+conMat_GBRLUp_1p5km_compSurvTop50P_20211207.mat completed in: 54465.3574 seconds
+conMat_GBRLUp_1p5km_compSurvTop50P_20211214.mat completed in: 55728.7487 seconds
+conMat_GBRLUp_1p5km_compSurvTop50P_20211221.mat completed in: 51932.3768 seconds
+conMat_GBRLUp_1p5km_compSurvTop50P_20211228.mat completed in: 49444.5716 seconds
+conMat_GBRLUp_1p5km_compSurvTop50P_20220101.mat completed in: 50589.6836 seconds
+conMat_GBRLUp_1p5km_compSurvTop50P_20220107.mat completed in: 54408.6369 seconds
+conMat_GBRLUp_1p5km_compSurvTop50P_20220114.mat completed in: 55702.0153 seconds
+conMat_GBRLUp_1p5km_compSurvTop50P_20220121.mat completed in: 54770.7141 seconds
+conMat_GBRLUp_1p5km_compSurvTop50P_20220128.mat completed in: 56067.3615 seconds
+conMat_GBRLUp_1p5km_compSurvBottom50P_20211201.mat completed in: 38812.8981 seconds
+conMat_GBRLUp_1p5km_compSurvBottom50P_20211207.mat completed in: 37012.1354 seconds
+conMat_GBRLUp_1p5km_compSurvBottom50P_20211214.mat completed in: 38502.0228 seconds
+conMat_GBRLUp_1p5km_compSurvBottom50P_20211221.mat completed in: 36627.7927 seconds
+=>> PBS: job killed: walltime 864013 exceeded limit 864000
+
+started job: cCM_GBRLUp_1p5km_2022-23
+
+
+                            < M A T L A B (R) >
+                  Copyright 1984-2018 The MathWorks, Inc.
+                   R2018a (9.4.0.813654) 64-bit (glnxa64)
+                             February 23, 2018
+
+ 
+For online documentation, see http://www.mathworks.com/support
+For product information, visit www.mathworks.com.
+ 
+conMat_GBRLUp_1p5km_compSurvAll_20221201.mat completed in: 0.054257 seconds
+conMat_GBRLUp_1p5km_compSurvAll_20221207.mat completed in: 0.04073 seconds
+conMat_GBRLUp_1p5km_compSurvAll_20221214.mat completed in: 0.041058 seconds
+conMat_GBRLUp_1p5km_compSurvAll_20221221.mat completed in: 0.31185 seconds
+conMat_GBRLUp_1p5km_compSurvAll_20221228.mat completed in: 0.043354 seconds
+conMat_GBRLUp_1p5km_compSurvAll_20230101.mat completed in: 0.041003 seconds
+conMat_GBRLUp_1p5km_compSurvAll_20230107.mat completed in: 0.040221 seconds
+conMat_GBRLUp_1p5km_compSurvAll_20230114.mat completed in: 45875.6195 seconds
+conMat_GBRLUp_1p5km_compSurvAll_20230121.mat completed in: 41688.6581 seconds
+conMat_GBRLUp_1p5km_compSurvAll_20230128.mat completed in: 40192.1969 seconds
+conMat_GBRLUp_1p5km_compSurvTop50P_20221201.mat completed in: 60488.4536 seconds
+conMat_GBRLUp_1p5km_compSurvTop50P_20221207.mat completed in: 49153.6578 seconds
+conMat_GBRLUp_1p5km_compSurvTop50P_20221214.mat completed in: 46614.0652 seconds
+conMat_GBRLUp_1p5km_compSurvTop50P_20221221.mat completed in: 49205.128 seconds
+conMat_GBRLUp_1p5km_compSurvTop50P_20221228.mat completed in: 42174.3656 seconds
+conMat_GBRLUp_1p5km_compSurvTop50P_20230101.mat completed in: 42728.5502 seconds
+conMat_GBRLUp_1p5km_compSurvTop50P_20230107.mat completed in: 43466.0703 seconds
+conMat_GBRLUp_1p5km_compSurvTop50P_20230114.mat completed in: 43163.38 seconds
+conMat_GBRLUp_1p5km_compSurvTop50P_20230121.mat completed in: 53454.3759 seconds
+conMat_GBRLUp_1p5km_compSurvTop50P_20230128.mat completed in: 53026.3339 seconds
+conMat_GBRLUp_1p5km_compSurvBottom50P_20221201.mat completed in: 38538.4794 seconds
+conMat_GBRLUp_1p5km_compSurvBottom50P_20221207.mat completed in: 35538.849 seconds
+conMat_GBRLUp_1p5km_compSurvBottom50P_20221214.mat completed in: 32993.7732 seconds
+conMat_GBRLUp_1p5km_compSurvBottom50P_20221221.mat completed in: 34812.8333 seconds
+conMat_GBRLUp_1p5km_compSurvBottom50P_20221228.mat completed in: 36767.5871 seconds
+conMat_GBRLUp_1p5km_compSurvBottom50P_20230101.mat completed in: 37057.0297 seconds
+=>> PBS: job killed: walltime 864009 exceeded limit 864000

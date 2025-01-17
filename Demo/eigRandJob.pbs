@@ -1,0 +1,19 @@
+#!/bin/bash -l
+
+#PBS -N eigRandJob
+#PBS -l select=1:ncpus=1000000:mem=1gb
+#PBS -l walltime=720:00:00
+#PBS -j oe
+#PBS -o eigRandJob.out
+
+echo
+echo  "started job: eigRandJob"
+echo
+
+cd 
+module load matlab/
+matlab -nojvm -nodisplay -nosplash -batch 'eig(rand(1000, 1000)); fprintf("matlab execution successful for: eigRandJob\n");'
+
+echo
+echo  "finished job: eigRandJob"
+echo
